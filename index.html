@@ -17,35 +17,23 @@
     <!-- Custom styles for this template -->
     <link href="css/full-slider.css" rel="stylesheet">
 
+     <script
+        src="https://code.jquery.com/jquery-3.3.1.js"
+        integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+        crossorigin="anonymous">
+    </script>
+    <script> 
+    $(function(){
+      $("#header").load("header.html"); 
+      $("#footer").load("footer.html"); 
+    });
+    </script>
   </head>
 
   <body>
 
-    <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-      <div class="container">
-        <a class="navbar-brand" href="#">Synerge Advisory</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="index.html">Home
-                <span class="sr-only">(current)</span>
-              </a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="about.html">About</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="contact.html">Contact</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
-
+    
+    <div id="header"></div>
     <header>
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
@@ -57,38 +45,34 @@
         </ol>
         <div class="carousel-inner" role="listbox">
           <!-- Slide One - Set the background image for this slide in the line below -->
-          <div class="carousel-item active" style="background-image: url('images/Boston.jpeg')">
+          <div class="carousel-item active" style="background-image: url('images/seattle-front.jpeg')">
             <div class="carousel-caption d-none d-md-block">
-              <h3>First Slide</h3>
-              <p>This is a description for the first slide.</p>
+                <h3><b>Synergē Advisory</b></h3>
+                <p><b>Financial planning for a better tomorrow</b></p>
             </div>
           </div>
           <!-- Slide Two - Set the background image for this slide in the line below -->
-          <div class="carousel-item" style="background-image: url('images/Chicago.jpeg')">
+          <div class="carousel-item" style="background-image: url('images/Chicago-front.jpeg')">
             <div class="carousel-caption d-none d-md-block">
-              <h3>Second Slide</h3>
-              <p>This is a description for the second slide.</p>
+                <h4><b>Advising entrepreneurs, independent contractors and emerging business owners</b></h4>
             </div>
           </div>
           <!-- Slide Three - Set the background image for this slide in the line below -->
-          <div class="carousel-item" style="background-image: url('images/Miami.jpeg')">
+          <div class="carousel-item" style="background-image: url('images/Miami-front.jpeg')">
             <div class="carousel-caption d-none d-md-block">
-              <h3>Third Slide</h3>
-              <p>This is a description for the third slide.</p>
+              <h3>With unique planning needs relating to their business and personal finances</h3>
             </div>
           </div>
           <!-- Slide Four - Set the background image for this slide in the line below -->
-          <div class="carousel-item" style="background-image: url('images/New York.jpeg')">
+          <div class="carousel-item" style="background-image: url('images/Boston-front.jpeg')">
             <div class="carousel-caption d-none d-md-block">
-              <h3>Fourth Slide</h3>
-              <p>This is a description for the fourth slide.</p>
+              <h3>In major metropolitan areas across the continental United States</h3>
             </div>
           </div>
           <!-- Slide Five - Set the background image for this slide in the line below -->
-          <div class="carousel-item" style="background-image: url('images/San Francisco.jpeg')">
+          <div class="carousel-item" style="background-image: url('images/San-Francisco-front.jpeg')">
             <div class="carousel-caption d-none d-md-block">
-              <h3>Fifth Slide</h3>
-              <p>This is a description for the fifth slide.</p>
+              <h3>Get synergized…Plan today for a better tomorrow</h3>
             </div>
           </div>
         </div>
@@ -107,19 +91,11 @@
     <section class="py-5">
       <div class="container">
         <h1>Welcome to Synerge Advisory</h1>
-        <p>The background images for the slider are set directly in the HTML using inline CSS. The rest of the styles for this template are contained within the
-          <code>full-slider.css</code>
-          file.</p>
+        <p>Text...<br>Text..</p>
       </div>
     </section>
 
-    <!-- Footer -->
-    <footer class="py-5 bg-dark">
-      <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; Synerge Advisory 2019</p>
-      </div>
-      <!-- /.container -->
-    </footer>
+    <div id="footer"></div>
 
     <!-- Bootstrap core JavaScript -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
