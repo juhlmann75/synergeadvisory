@@ -232,6 +232,11 @@ Home sections
     
 }
 
+.about-section{
+    width: 100%;
+	padding: 100px 0px 100px 0px;
+}
+
 /* --- heading --- */
 .section-heading {
 	margin-bottom: 50px;
@@ -285,14 +290,16 @@ Parallax
 ============================= */
 
 #parallax1{
-	background-image: url(../images/Chicago-front.jpeg);
+	background-image: url(../images/seattle1v-min.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 #parallax2{
 	background-image: url(../images/San-Francisco-front.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 
@@ -447,6 +454,29 @@ Intro
   text-decoration: none;
 }
 
+#intro .btn-schedule {
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 12px 32px;
+  border-radius: 3px;
+  transition: 0.5s;
+  line-height: 1;
+  margin: 10px;
+  color: #fff;
+  -webkit-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+  border: 2px solid #00c1c1;
+}
+
+#intro .btn-schedule:hover {
+  background: #00c1c1;
+  color: #fff;
+  text-decoration: none;
+}
+
 /* ================================
 About
 ================================= */
@@ -496,6 +526,12 @@ About
   margin-bottom: 0;
 }
 
+.aboutInfo li {
+    font-size:12pt;
+    text-align:left;
+    margin-bottom:10px;
+    line-height:25px;
+}
 /* ================================
 Team
 ================================= */
