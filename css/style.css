@@ -296,7 +296,7 @@ Parallax
     background-attachment: fixed;
 }
 #parallax2{
-	background-image: url(../images/San-Francisco-front.jpeg);
+	background-image: url(../images/seattle2v-min.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -355,6 +355,10 @@ Intro
 
 #intro .carousel-content {
   text-align: center;
+}
+
+.carousel-content.readmore{
+    margin-bottom:40%;
 }
 
 #intro h2 {
