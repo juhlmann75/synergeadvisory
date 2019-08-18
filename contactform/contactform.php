@@ -1,6 +1,6 @@
 <?php
 
-$email_to = "juhlmann75@gmail.com";
+$email_to = "david@synergosadvice.com";
 $email_subject = $_POST['subject'];
 
 $name = $_POST['name']; // required
