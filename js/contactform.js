@@ -99,6 +99,7 @@ jQuery(document).ready(function($) {
       url: action,
       data: str,
       success: function(msg) {
+		  console.log(msg);
         if (msg == 'OK') {
           $("#sendmessage").addClass("show");
           $("#errormessage").removeClass("show");
