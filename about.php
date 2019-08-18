@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>Synergē Advisory</title>
+  <title>Synergōs Advice</title>
   <meta charset="utf-8" />
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- css -->
@@ -11,6 +11,18 @@
   <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
   <link href="css/style.css" rel="stylesheet" media="screen">
   <link href="css/default.css" rel="stylesheet" media="screen">
+  
+  <style>
+	.navlink a:hover {
+		background-color: transparent !important;
+		color:#3a3a3a;
+	}
+	.navlink {
+		text-transform: uppercase;
+		font-weight:bold;
+		font-size:14px !important;
+	}
+  </style>
 
 </head>
 
@@ -28,15 +40,15 @@
         </button>
 
         <!-- Logo text or image -->
-        <a class="navbar-brand" href="index.html"><img src="images/synergoslogo.PNG" style="width:260px;margin-top:-24px;"/></a>
+        <a class="navbar-brand" href="index.php"><img src="images/synergoslogo.PNG" style="width:260px;margin-top:-20px;"/></a>
 
       </div>
       <div class="navigation collapse navbar-collapse navbar-ex1-collapse staticLinks">
-        <ul class="nav navbar-nav">
-          <li><a href="/index.html">Home</a></li>
-          <li><a href="/index.html#about">About</a></li>
-          <li><a href="/index.html#services">Service</a></li>
-          <li><a href="/index.html#contact">Contact</a></li>
+        <ul class="nav navbar-nav" style="margin: 7.5px -15px !important;">
+          <li class="navlink"><a href="/index.php">Home</a></li>
+          <li class="navlink"><a href="/index.php#about">About</a></li>
+          <li class="navlink"><a href="/index.php#services">Service</a></li>
+          <li class="navlink"><a href="/index.php#contact">Contact</a></li>
         </ul>
       </div>
     </div>
@@ -92,49 +104,11 @@
         </ul>
     </div>
   </div>
-  <!-- Footer -->
-  <footer>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12" style="font-size:8pt;text-align:left;">
-          <p>
-            Synerge Advisory LLC doing business as Synergos Advisory (“Synergos”) is a registered investment advisor offering advisory services in the State 
-              of Washington and in other jurisdictions where exempted. Registration does not imply a certain level of skill or training. The presence of this 
-              website on the Internet shall not be directly or indirectly interpreted as a solicitation of investment advisory services to persons of another 
-              jurisdiction unless otherwise permitted by statute. Follow-up or individualized responses to consumers in a particular state by Synergos in the 
-              rendering of personalized investment advice for compensation shall not be made without our first complying with jurisdiction requirements or 
-              pursuant an applicable state exemption.
-            </p><p>
-All written content on this site is for information purposes only. Opinions expressed herein are solely those of Synergos, 
-            unless otherwise specifically cited. Material presented is believed to be from reliable sources and no representations 
-            are made by our firm as to other parties’ informational accuracy or completeness. All information or ideas provided 
-            should be discussed in detail with an advisor, accountant or legal counsel prior to implementation.
-            </p>
-            <ul>
-                <li><a href="files/Privacy_Policy.pdf" target="_blank">Privacy Policy & Disclaimer</a></li>
-                <li><a href="files/ADV_Part_2A_2B.pdf" target="_blank">Form ADV Part 2A</a></li>
-            </ul>
-            <center>Synerge Advisory LLC Copyright &copy; 2019</center>
-        </div>
-      </div>
-    </div>
-  </footer>
+  
+  <?php require 'include/javascript/master.php' ?>
+  <?php require 'footer.php'; ?>
 
   <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
-  <!-- js -->
-  <script src="js/jquery.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/wow.min.js"></script>
-  <script src="js/jquery.scrollTo.min.js"></script>
-  <script src="js/jquery.nav.js"></script>
-  <script src="js/modernizr.custom.js"></script>
-  <script src="js/grid.js"></script>
-  <script src="js/stellar.js"></script>
-  <!-- Contact Form JavaScript File -->
-  <script src="js/contactform.js"></script>
-
-  <!-- Template Custom Javascript File -->
-  <script src="js/custom.js"></script>
 
 </body>
 
