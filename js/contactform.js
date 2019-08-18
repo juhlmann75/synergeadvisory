@@ -99,16 +99,16 @@ jQuery(document).ready(function($) {
       url: action,
       data: str,
       success: function(msg) {
-		  console.log(msg);
-        if (msg == 'OK') {
+		//  console.log(msg);
+        //if (msg == 'OK') {
           $("#sendmessage").addClass("show");
           $("#errormessage").removeClass("show");
           $('.contactForm').find("input, textarea").val("");
-        } else {
+       /* } else {
           $("#sendmessage").removeClass("show");
           $("#errormessage").addClass("show");
-          $('#errormessage').html(msg);
-        }
+          $('#errormessage').html(msg);*/
+       // }
 
       }
     });
