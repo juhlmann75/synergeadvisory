@@ -57,9 +57,11 @@
 
     <!-- Intro Content -->
     <div class="row">
-        <h2 >About Me</h2><br>
+        <h2 >About David Uhlmann</h2><br>
       <div class="col-lg-4" >
         <img class="img-fluid rounded mb-4" src="images/davidhead.png" width="300" alt="" >
+		<br><br>
+		David R. Uhlmann,  Synergōs Advice Founder
       </div>
       <div class="col-lg-8" style="text-align:left;">
         
@@ -76,6 +78,7 @@
         <h4 style="text-align:left">Qualifications</h4>
         <hr>
         <ul>
+			<li class="serviceList">CFP® CERTIFIED FINANCIAL PLANNER&#8480;</li>
             <li class="serviceList">AAMS® Accredited Asset Management Specialist&#8480;</li>
             <li class="serviceList">APMA® Accredited Portfolio Management Advisor&#8480;</li>
             <li class="serviceList">BFA&#153;   Behavioral Financial Advisor</li>

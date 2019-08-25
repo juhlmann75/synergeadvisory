@@ -64,13 +64,13 @@
           
           <!-- Slide 2 -->
           <div class="item">
-            <div class="carousel-background"><img src="images/seattle2h-min.jpg" alt=""></div>
+            <div class="carousel-background"><img src="images/seattle5h-min.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
                   <center>
                 <h3 class="animated fadeInDown" style="color:white;width:70%;">
-                    We work with self-employed individuals, business owners, entrepreneurs, 
-                    technology professionals, and those who care about their financial future
+                    As an entrepreneur, you’re juggling personnel decisions, capital allocation, 
+					growing sales, cutting costs and constantly putting fires out…
                   </h3></center>
                 <p class="animated fadeInUp"></p>
                 <a href="#about" class="btn-get-started animated fadeInUp readmore">Learn More</a>
@@ -81,13 +81,30 @@
 
           <!-- Slide 3 -->
           <div class="item">
+            <div class="carousel-background"><img src="images/seattle2h-min.jpg" alt=""></div>
+            <div class="carousel-container">
+              <div class="carousel-content">
+                  <center>
+                <h3 class="animated fadeInDown" style="color:white;width:70%;">
+                    With all your time tied up in running your business, who’s making sure your personal finances are on track?
+                 </h3>
+                  </center>
+                <p class="animated fadeInUp"></p>
+                <a href="#about" class="btn-get-started animated fadeInUp readmore">Learn More</a>
+                  <!---<span style="color:white;font-weight:bold;font-size:30px">&#11167;</span>--->
+              </div>
+            </div>
+          </div>
+		  
+		  <!-- Slide 4 -->
+          <div class="item">
             <div class="carousel-background"><img src="images/seattle3h-min.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
                   <center>
                 <h3 class="animated fadeInDown" style="color:white;width:70%;">
-                    Our mission is to help you make informed financial decisions and encourage you to 
-                    take the appropriate actions that can lead to a better quality of life
+                    We do!<br><br>Synergōs can provide you with ongoing financial planning and wealth management 
+					tailored to your unique needs while you focus on running your business.<br><br>Allow us to work on your behalf.
                  </h3>
                   </center>
                 <p class="animated fadeInUp"></p>
@@ -97,7 +114,7 @@
             </div>
           </div>
             
-           <!-- Slide 4 -->
+           <!-- Slide 5 -->
           <div class="item">
             <div class="carousel-background"><img src="images/seattle4h-min.jpg" alt=""></div>
             <div class="carousel-container">
@@ -162,14 +179,16 @@
               <ul class="aboutInfo">
                 <li>
                     A <b>values-based approach</b> to financial planning.  
-                We have found our clients are most successful when they can make 
-                informed financial decisions aligning their core values, goals and financial resources.
+                We will help you define what values and motivations are important to you.  
+				These serve as the foundation for you to make informed financial decisions 
+				that align with your goals and financial resources.  
+				We have found our clients are most successful when they can make that alignment.
                 </li>
                 <li>
                     <b>Coaching</b>.  It doesn’t end with just a financial plan.  
-                We work closely with our clients to implement recommendations 
-                and monitor progress against goals.  The focus is on encouraging 
-                clients to make positive changes in financial behavior.
+                As we implement and monitor progress against goals, we will work closely with you, encouraging you to make positive 
+				changes in financial behavior.  We will serve as your accountability partner, consistent with the 
+				collaborative process we advocate.
                 </li>
                 <li>
                     <b>Fiduciary duty</b>.  We always put our clients’ interests first.  
@@ -185,7 +204,7 @@
           
           <br>
             <br>
-          <input id="aboutButton" type="button" value="Meet Our Founder" onclick="location.href='about.php';">
+          <input id="aboutButton" type="button" value="Meet Our Founder" onclick="location.href='david-uhlmann.php';">
         </div>
       </div>
     </div>
