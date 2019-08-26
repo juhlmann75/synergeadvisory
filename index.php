@@ -64,7 +64,7 @@
           
           <!-- Slide 2 -->
           <div class="item">
-            <div class="carousel-background"><img src="images/seattle5h-min.jpg" alt=""></div>
+            <div class="carousel-background"><img src="images/seattle5h-min.JPG" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
                   <center>
