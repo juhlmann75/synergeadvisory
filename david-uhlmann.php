@@ -61,7 +61,7 @@
       <div class="col-lg-4" >
         <img class="img-fluid rounded mb-4" src="images/davidhead.png" width="300" alt="" >
 		<br><br>
-		David R. Uhlmann,  Synergōs Advice Founder
+		David R. Uhlmann,  Synergōs Advisory Founder
       </div>
       <div class="col-lg-8" style="text-align:left;">
         
