@@ -78,7 +78,7 @@
         <h4 style="text-align:left">Qualifications</h4>
         <hr>
         <ul>
-			<li class="serviceList">CFP® CERTIFIED FINANCIAL PLANNER&#8480;</li>
+			<li class="serviceList">CFP® CERTIFIED FINANCIAL PLANNER&#153;</li>
             <li class="serviceList">AAMS® Accredited Asset Management Specialist&#8480;</li>
             <li class="serviceList">APMA® Accredited Portfolio Management Advisor&#8480;</li>
             <li class="serviceList">BFA&#153;   Behavioral Financial Advisor</li>

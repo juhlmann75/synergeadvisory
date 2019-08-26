@@ -412,7 +412,7 @@
 		  <ul style="list-style-type:none;">
 			<li class="">
 				<div class="col-sm-3">
-					<img src="images/napfa-logo.png" width="175">
+					<img src="images/napfa-logo.png" width="175" style="padding-bottom:20px;">
 				</div>
 				<div class="col-sm-9 affil" style="text-align:left">
 					<a href="https://www.napfa.org/member/96187/29196" style="font-weight: 700; color:#002060" target="_blank">David R. Uhlmann is a NAPFA-Registered Financial Advisor</a><br>
@@ -422,7 +422,7 @@
 			</li>
 			<li class="">
 				<div class="col-sm-3">
-					<img src="images/cfp-logo.jpg" width="175">
+					<img src="images/cfp-logo.jpg" width="175" style="padding-bottom:20px;">
 				</div>
 				<div class="col-sm-9 affil" style="text-align:left">
 					<a target="_blank" style="font-weight: 700; color:#002060" href="https://www.letsmakeaplan.org/choose-a-cfp-professional/find-a-cfp-professional/Details/?key=0f3b200b-9ff1-4dfd-a07f-9af9b6d33fdb&SimpleSearch=False&Latitude=0&Longitude=0&AreasOfSpecialization=&LastName=Uhlmann&Page=1&Session=28273">
@@ -434,7 +434,7 @@
 			</li>
 			<li class="">
 				<div class="col-sm-3">
-					<img src="images/xy-logo.jpg" width="175">
+					<img src="images/xy-logo.jpg" width="175" style="padding-bottom:20px;">
 				</div>
 				<div class="col-sm-9 affil" style="text-align:left">
 					<a href="http://www.xyplanningnetwork.com/"  style="font-weight: 700; color:#002060" target="_blank">David R. Uhlmann is a Member of the XY Planning Network</a><br>
