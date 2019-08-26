@@ -103,7 +103,7 @@
             <li class="serviceList">Financial Advisor and Franchisee, Ameriprise, 2011 - 2019​</li>
             <li class="serviceList">Financial Advisor, Edward Jones, 2007 – 2011</li>
             <li class="serviceList">President/Founder, Photon Power, 2005 – 2006</li>
-            <li class="serviceList">Director, Global Support Desk, Morgan Stanley Capital International and Barra Inc., 1995 -2004/li>
+            <li class="serviceList">Director, Global Support Desk, Morgan Stanley Capital International and Barra Inc., 1995 -2004</li>
         </ul>
     </div>
   </div>
