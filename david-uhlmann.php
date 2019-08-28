@@ -2,6 +2,7 @@
 <html>
 
 <head>
+  <?php require 'googleanalytics.php'; ?>
   <title>Synergōs Advice</title>
   <meta charset="utf-8" />
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
@@ -78,7 +79,7 @@
         <h4 style="text-align:left">Qualifications</h4>
         <hr>
         <ul>
-			<li class="serviceList">CFP® CERTIFIED FINANCIAL PLANNER&#153;</li>
+			<li class="serviceList">CFP® CERTIFIED FINANCIAL PLANNER &#153; Practitioner</li>
             <li class="serviceList">AAMS® Accredited Asset Management Specialist&#8480;</li>
             <li class="serviceList">APMA® Accredited Portfolio Management Advisor&#8480;</li>
             <li class="serviceList">BFA&#153;   Behavioral Financial Advisor</li>
