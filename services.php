@@ -1,6 +1,12 @@
 <?php require 'header.php'; ?>
 
 <?php
+/*
+$servername = "a2plcpnl0301";
+$username = "webadmin";
+$password = "u4LmAnNj3986$#";
+$dbname = "synergos";
+*/
 $servername = "localhost";
 $username = "root";
 $password = "";
@@ -20,45 +26,69 @@ $result = $conn->query($sql);
 tr td {
 	text-align:left;
 }
+.rLabel {
+	float: left;
+    width: 90%;
+    margin-left: 5px;
+}
+
+.rRadio {
+	float:left;
+}
+.tiers{
+	width:25%;
+}
 </style>
-   <div class="container">
+   <div class="container" style="margin-top: 75px;">
 
     <!-- Intro Content -->
     <div class="row">
-        <h2 >Financial Plan Menu of Services</h2><br>
-		<h6>Click on checkboxes for services of interest and the estimated financial planning fee will be calculated for your reference.</h6>
+        <h2 >Build Your Plan</h2><br>
+		<h6 style="line-height: 1.5;">Allow Synergōs to serve as your guide on your path toward your aspirations.<br>
+Select the categories below that match your interests. <br>
+Your custom plan will fall under one of three tiers: Pathfinder, Navigator or Trailblazer.</h6>
 		<form name="serviceForm">
+		<div id="tab">
 		<table class="table table-striped">
 			<tr>
-				<th scope="col" style="width:20%;"></th>
-				<th scope="col">Basic</th>
-				<th scope="col">Moderate</th>
-				<th scope="col">Complex</th>
+				<th scope="col" style="width:25%;"></th>
+				<th scope="col" class="tiers">Pathfinder</th>
+				<th scope="col" class="tiers">Navigator</th>
+				<th scope="col" class="tiers">Trailblazer</th>
 			</tr>
 			
 			<?php
 			$index = 0;
-			while($row = $result->fetch_assoc()) {
-				echo "<tr><th scope='row'>" . $row["service"]. "</th><td><input type='radio' name='".$row["service"]."' value='" . $row["lowValue"]. "' onclick='calculateFee(".$index.",".$row["lowValue"].");'> " 
-				. $row["lowName"] . "</td><td><input type='radio' name='".$row["service"]."' value='" . $row["mediumValue"]. "' onclick='calculateFee(".$index.",".$row["mediumValue"].");'> " 
-				. $row["mediumName"] . "</td><td><input type='radio' name='".$row["service"]."' value='" . $row["highValue"]. "' onclick='calculateFee(".$index.",".$row["highValue"].");'> " 
-				. $row["highName"] . "</td></tr>";
-				$index = $index + 1;
+			while($row = $result->fetch_assoc()) { ?>
+				<tr>
+					<th scope='row'><?php echo $row["service"]; ?></th>
+					<td>
+						<input type='radio' class="rRadio" name="<?php echo $row["service"]; ?>" value="<?php echo $row["lowValue"]; ?>" onclick='calculateFee("<?php echo $index; ?>","<?php echo $row["lowValue"]; ?>");'> <div class="rLabel"><?php echo $row["lowName"]; ?></div>
+					</td>
+					<td>
+						<input type='radio' class="rRadio" name="<?php echo $row["service"]; ?>" value="<?php echo $row["mediumValue"]; ?>" onclick='calculateFee("<?php echo $index; ?>","<?php echo $row["mediumValue"]; ?>");'> <div class="rLabel"><?php echo $row["mediumName"]; ?></div>
+					</td>
+					<td>
+						<input type='radio' class="rRadio" name="<?php echo $row["service"]; ?>" value="<?php echo $row["highValue"]; ?>" onclick='calculateFee("<?php echo $index; ?>","<?php echo $row["highValue"]; ?>");'> <div class="rLabel"><?php echo $row["highName"]; ?></div>
+					</td>
+				</tr>
+				<?php $index = $index + 1;
 			}
 			?>
 			<tr><td colspan="4"></th></tr>
 			<tr>
-				<th scope="row">Fee based on level of complexity</th>
-				<td style="text-align:center;">$500 - $2,750</td>
-				<td style="text-align:center;">$2,750 - $4,525</td>
-				<td style="text-align:center;">$4,525 - $6,750</td>
+				<th scope="row">Planning Tiers</th>
+				<td >Pathfinder<br>$500 - $2,750</td>
+				<td >Navigator<br>$2,751 - $4,525</td>
+				<td >Trailblazer<br>$4,526 - $6,750</td>
 			</tr>
 			<tr><td colspan="4"></th></tr>
 			<tr>
 				<th scope="row">Estimated Fee:</th>
-				<td colspan="3">$<span id="fee">0</span></td>
+				<td colspan="3">$<span id="fee">0</span><span id="feeLabel" style="margin-left:5px;font-weight:bold;"></span></td>
 			</tr>
 		</table>
+		</div>
 		</form>
 		<button type="button" class="btn btn-primary" id="clear">Clear Form</button>
     </div>
@@ -92,6 +122,18 @@ function calculateFee(index, value){
 	}
 	//console.log(fee);
 	$('#fee').html(fee);
+	if(fee >= 500 && fee <= 2750){
+		$('#feeLabel').text("(Pathfinder)");
+	}
+	else if(fee > 2750 && fee <= 4525){
+		$('#feeLabel').text("(Navigator)");
+	}
+	else if(fee > 4525 && fee <= 6750){
+		$('#feeLabel').text("(Trailblazer)");
+	}
+	else {
+		$('#feeLabel').text("");
+	}
 }
 
 $('#clear').on('click', function(){
@@ -108,6 +150,9 @@ $('#clear').on('click', function(){
 		allInp[i].checked = false; 
 	  }
 	}
+	$('#feeLabel').text("");
 });
+
+
 </script>
     

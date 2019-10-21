@@ -23,17 +23,29 @@
 		font-weight:bold;
 		font-size:14px !important;
 	}
+	
+	.navbar {
+		border: none !important;
+		height: 70px !important;
+	}
+	
+	.navbar-default .navbar-nav>li>a {
+		color:white;
+	}
+	
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+		border-color: transparent;
+	}
   </style>
-
 </head>
 
 <body>
 
   <!-- Navigation -->
-  <nav class="staticNav" role="navigation">
+  <nav class="navbar navbar-default navbar-fixed-top">
     <div class="container">
       <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
           <span class="sr-only">Toggle nav</span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
@@ -44,12 +56,72 @@
         <a class="navbar-brand" href="index.php"><img src="images/synergoslogo.PNG" style="width:260px;margin-top:-20px;"/></a>
 
       </div>
-      <div class="navigation collapse navbar-collapse navbar-ex1-collapse staticLinks">
+      <div id="navbar" class="navigation collapse navbar-collapse navbar-ex1-collapse staticLinks" style="background-color: #002060;padding:0px !important">
         <ul class="nav navbar-nav" style="margin: 7.5px -15px !important;">
           <li class="navlink"><a href="/index.php">Home</a></li>
           <li class="navlink"><a href="/index.php#about">About</a></li>
-          <li class="navlink"><a href="/index.php#services">Service</a></li>
+          <li class="navlink"><a href="/index.php#services">Services</a></li>
           <li class="navlink"><a href="/index.php#contact">Contact</a></li>
+		  <li class="navlink dropdown dropdown-large">
+				<a href="#" style="background-color: transparent;" class="dropdown-toggle" data-toggle="dropdown">Insights & Tools <b class="caret"></b></a>
+				
+				<ul class="dropdown-menu dropdown-menu-large row">
+					<li class="col-sm-4">
+						<ul>
+							<li class="dropdown-header">Insights for you</li>
+							<li> <button style="margin-bottom:-3px;" type="button" onclick="alert('The assessment is not loaded yet');" data-token="UVmsqXF3DYKgA8jbvKQb" class="embed-survey-start-button">
+							Wealth Building Potential Assessment</button><script src="https://measure.datapoints.com/js/embed.js?v=1.031" 
+							data-id="survey" data-domain="https://measure.datapoints.com" data-token="UVmsqXF3DYKgA8jbvKQb"></script></li>
+							<li><button style="margin-bottom:-3px;" type="button" onclick="alert('The assessment is not loaded yet');" data-token="ObedLHwAJVBioWFLSnpC" class="embed-survey-start-button">
+							Career Fit Assessment</button><script src="https://measure.datapoints.com/js/embed.js?v=1.031" data-id="survey" data-domain="https://measure.datapoints.com" data-token="ObedLHwAJVBioWFLSnpC"></script></li>
+							<li><button style="margin-bottom:-3px;" type="button" onclick="alert('The assessment is not loaded yet');" data-token="sgP2O9ngbGPIBirWhvn1" class="embed-survey-start-button">
+							Investor Composure Assessment</button><script src="https://measure.datapoints.com/js/embed.js?v=1.031" data-id="survey" data-domain="https://measure.datapoints.com" data-token="sgP2O9ngbGPIBirWhvn1"></script></li>
+							<li> <button style="margin-bottom:-3px;" type="button" onclick="alert('The assessment is not loaded yet');" data-token="7MOzVncdSjnxv4wjXNy2" class="embed-survey-start-button">
+							Financial Planning Habits Assessment</button><script src="https://measure.datapoints.com/js/embed.js?v=1.031" data-id="survey" data-domain="https://measure.datapoints.com" data-token="7MOzVncdSjnxv4wjXNy2"></script></li>
+
+						</ul>
+					</li>
+					<li class="col-sm-5">
+					
+						<ul>
+							<li class="dropdown-header">Tools for your business</li>
+							<li><a target="_blank" href="https://urldefense.proofpoint.com/v2/url?u=https-3A__calcxml.com_do_bus01&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=asuTQzV4vdcqpk82UnvSgmRHVR5lXYYIApEMGysGBHY&m=mh_bTn8OBpyPlgEanrCc2lvYzv8gBLuBMv3ZhiSHm0w&s=eCUcUPh_rqzC9KD02Dn4sfsrnDt16zAj5v-oB7KxUII&e=">What are the tax savings of a qualified retirement/cafeteria plan?</a></li>
+							<li><a target="_blank" href="https://urldefense.proofpoint.com/v2/url?u=https-3A__calcxml.com_do_bus02&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=asuTQzV4vdcqpk82UnvSgmRHVR5lXYYIApEMGysGBHY&m=lcrffRSh-bPXfnDENNQJr8Dz11DWteCqP543EUrMVPA&s=iKWnTP-NDgGYX7iUYV-jLW8SeXEUZz6y4SeHdZjELE8&e=">What are my new business startup costs?</a></li>
+							<li><a target="_blank" href="https://urldefense.proofpoint.com/v2/url?u=https-3A__calcxml.com_calculators_modal-2Dpremium-2Dapr-2Dcalculator&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=asuTQzV4vdcqpk82UnvSgmRHVR5lXYYIApEMGysGBHY&m=lcrffRSh-bPXfnDENNQJr8Dz11DWteCqP543EUrMVPA&s=um45hrCPrL2TMeOuBCM8kDeAI1iNyn9t-QCHLWm-Q4o&e=">Should I pay or charge monthly, quarterly or annually?</a></li>
+						</ul>
+						<!---<center><span class="dropdown-header">Tools for your business</span></center>
+						<ul class="row dropdown-menu-large">
+							<li class="col-sm-6">
+								<ul>
+									<li><a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__calcxml.com_do_bus01&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=asuTQzV4vdcqpk82UnvSgmRHVR5lXYYIApEMGysGBHY&m=mh_bTn8OBpyPlgEanrCc2lvYzv8gBLuBMv3ZhiSHm0w&s=eCUcUPh_rqzC9KD02Dn4sfsrnDt16zAj5v-oB7KxUII&e=">What are the tax savings of a qualified retirement/cafeteria plan?</a></li>
+									<li><a href="#">What are my new business startup costs?</a></li>
+									<li><a href="#">Should I pay or charge monthly, quarterly or annually?</a></li>
+									<li><a href="#">What is the value of my business?</a></li>
+									<li><a href="#">How many units do I need to sell to breakeven?</a></li>
+								</ul>
+							</li>
+							<li class="col-sm-6">
+								<ul>
+									<li><a href="#">Should I lease or buy equipment?</a></li>
+									<li><a href="#">What are my business financial ratios?</a></li>
+									<li><a href="#">What is my employee total compensation package worth?</a></li>
+									<li><a href="#">What are my tax savings with Section 179 deduction?</a></li>
+								</ul>
+							</li>
+				
+					
+						</ul>--->
+					</li>
+					<li class="col-sm-3">
+						<ul>
+							<li class="dropdown-header">Tools</li>
+							<li><a href="https://www.rightcapital.com/sign-up?referral=Bk2t09O2NLeM47NJBweHXA&type=client" target="_blank">Track your finances</a></li>
+							
+						</ul>
+					</li>
+				</ul>
+				
+			</li>
         </ul>
       </div>
     </div>

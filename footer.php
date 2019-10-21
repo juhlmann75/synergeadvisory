@@ -5,16 +5,16 @@
         <div class="col-md-12" style="font-size:8pt;text-align:left;">
           <p>
             The information on this site is provided "AS IS" and without warranties of any kind either express or implied. 
-			To the fullest extent permissible pursuant to applicable laws, Synerge Advisory LLC doing business as Synergos Advisory 
-			(referred to as "Synergos") disclaims all warranties, express or implied, including, but not limited to, implied warranties 
+			To the fullest extent permissible pursuant to applicable laws, Synerge Advisory LLC doing business as Synergōs Advisory 
+			(referred to as "Synergōs") disclaims all warranties, express or implied, including, but not limited to, implied warranties 
 			of merchantability, non-infringement, and suitability for a particular purpose.
             </p><p>
-			Synergos does not warrant that the information will be free from error. None of the information provided on this website 
+			Synergōs does not warrant that the information will be free from error. None of the information provided on this website 
 			is intended as investment, tax, accounting or legal advice, as an offer or solicitation of an offer to buy or sell, or as 
 			an endorsement of any company, security, fund, or other securities or non-securities offering. The information should not 
 			be relied upon for purposes of transacting securities or other investments. Your use of the information is at your sole risk. 
-			Under no circumstances shall Synergos be liable for any direct, indirect, special or consequential damages that result from the 
-			use of, or the inability to use, the materials in this site, even if Synergos or a Synergos authorized representative has been 
+			Under no circumstances shall Synergōs be liable for any direct, indirect, special or consequential damages that result from the 
+			use of, or the inability to use, the materials in this site, even if Synergōs or a Synergōs authorized representative has been 
 			advised of the possibility of such damages.
             </p>
 			<p>In no event shall Synerge Advisory LLC have any liability to you for damages, losses, and causes of action for accessing this site. 

@@ -1,48 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <?php require 'googleanalytics.php'; ?>
-  <title>Synergōs Advice</title>
-  <meta charset="utf-8" />
-  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-  <!-- css -->
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,300,700,800" rel="stylesheet" media="screen">
-
-  <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
-  <link href="css/style.css" rel="stylesheet" media="screen">
-  <link href="css/default.css" rel="stylesheet" media="screen">
-
-</head>
-
-<body>
-
-  <!-- Navigation -->
-  <nav class="navbar navbar-default" role="navigation">
-    <div class="container">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-          <span class="sr-only">Toggle nav</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-
-        <!-- Logo text or image -->
-        <a class="navbar-brand" href="index.php"><img src="images/synergoslogo.PNG" style="width:260px;margin-top:-24px;"/></a>
-
-      </div>
-      <div class="navigation collapse navbar-collapse navbar-ex1-collapse ">
-        <ul class="nav navbar-nav">
-          <li class="current"><a href="#intro">Home</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#services">Service</a></li>
-          <li><a href="#contact">Contact</a></li>
-        </ul>
-      </div>
-    </div>
-  </nav>
-
+<?php require 'header.php'; ?>
   <!-- intro area -->
   <section id="intro">
     <div class="intro-container">
@@ -277,6 +233,8 @@
         </div>
       </div>
     </div>
+	<br>
+	<a href="/services" class="btn-schedule animated" style="color:#002060;font-weight:bold;">Build Your Plan</a>
   </section>
 
   
