@@ -36,6 +36,12 @@
 	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
 		border-color: transparent;
 	}
+
+	@media (min-width: 810px) {
+		.myNav.container {
+			width: 992px !important;
+		}
+	|
   </style>
 </head>
 
@@ -43,7 +49,7 @@
 
   <!-- Navigation -->
   <nav class="navbar navbar-default navbar-fixed-top">
-    <div class="container">
+    <div class="myNav container">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
           <span class="sr-only">Toggle nav</span>
@@ -63,7 +69,7 @@
           <li class="navlink"><a href="/index.php#services">Services</a></li>
           <li class="navlink"><a href="/index.php#contact">Contact</a></li>
 		  <li class="navlink dropdown dropdown-large">
-				<a href="#" style="background-color: transparent;" class="dropdown-toggle" data-toggle="dropdown">Insights & Tools <b class="caret"></b></a>
+				<a href="#" style="background-color: transparent;" class="dropdown-toggle" data-toggle="dropdown">Insights & Tools (Beta)<b class="caret"></b></a>
 				
 				<ul class="dropdown-menu dropdown-menu-large row">
 					<li class="col-sm-4">
@@ -114,7 +120,7 @@
 					</li>
 					<li class="col-sm-3">
 						<ul>
-							<li class="dropdown-header">Tools</li>
+							<li class="dropdown-header">Insights For You</li>
 							<li><a href="https://www.rightcapital.com/sign-up?referral=Bk2t09O2NLeM47NJBweHXA&type=client" target="_blank">Track your finances</a></li>
 							
 						</ul>

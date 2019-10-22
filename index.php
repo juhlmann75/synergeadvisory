@@ -234,7 +234,7 @@
       </div>
     </div>
 	<br>
-	<a href="/services" class="btn-schedule animated" style="color:#002060;font-weight:bold;">Build Your Plan</a>
+	<a href="/services.php" class="btn-schedule animated" style="color:#002060;font-weight:bold;">Build Your Plan</a>
   </section>
 
   
