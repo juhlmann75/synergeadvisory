@@ -6,6 +6,8 @@
   <title>Synergōs Advice</title>
   <meta charset="utf-8" />
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+  <meta name="description" content="&quot;From my very first day as an entrepreneur, I've felt the only mission worth pursuing in business is to make people's lives better.&quot; - Richard Branson 
+  If you're reading this, I'm sure you can relate...">
   <!-- css -->
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,300,700,800" rel="stylesheet" media="screen">
 
