@@ -3,7 +3,18 @@
 
 <head>
   <?php require 'googleanalytics.php'; ?>
-  <title>Synergōs Advice</title>
+  <?php 
+	if($_SERVER['REQUEST_URI'] == '/david-uhlmann.php'){
+		$title = 'David Uhlmann';
+	}
+	else if($_SERVER['REQUEST_URI'] == '/services.php') {
+		$title = 'Build Your Plan';
+	}
+	else {
+		$title = 'Synergōs Advisory';
+	}
+  ?>
+  <title><?php echo $title; ?></title>
   <meta charset="utf-8" />
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <meta name="description" content="&quot;From my very first day as an entrepreneur, I've felt the only mission worth pursuing in business is to make people's lives better.&quot; - Richard Branson 
@@ -61,12 +72,12 @@
         </button>
 
         <!-- Logo text or image -->
-        <a class="navbar-brand" href="index.php"><img src="images/synergoslogo.PNG" style="width:260px;margin-top:-20px;"/></a>
+        <a class="navbar-brand" href="/"><img src="images/synergoslogo.PNG" style="width:260px;margin-top:-20px;"/></a>
 
       </div>
       <div id="navbar" class="navigation collapse navbar-collapse navbar-ex1-collapse staticLinks" style="background-color: #002060;padding:0px !important">
         <ul class="nav navbar-nav" style="margin: 7.5px -15px !important;">
-          <li class="navlink"><a href="/index.php">Home</a></li>
+          <li class="navlink"><a href="/">Home</a></li>
           <li class="navlink"><a href="/index.php#about">About</a></li>
           <li class="navlink"><a href="/index.php#services">Services</a></li>
           <li class="navlink"><a href="/index.php#contact">Contact</a></li>
