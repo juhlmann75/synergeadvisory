@@ -11,7 +11,7 @@
             <div class="carousel-background"><img src="images/seattle-front.jpeg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content" style="height:100%;">
-                <h2 class="animated fadeInDown" style="margin-top:50%;">Welcome to<br>Synergōs Advisory</h2>
+                <h2 class="animated fadeInDown" style="margin-top:50%;">Welcome to<br>Synergos Advisory</h2>
                 <p class="animated fadeInUp" style="font-size: 14pt; font-weight:bold;width:100%;">A Collaborative<br>Financial Planning & Wealth Management<br>Practice</p>
                 <a href="#about" class="btn-get-started animated fadeInUp readmore" style="margin-bottom:40%;">Learn More</a><br>
                  <span style="color:white;font-weight:bold;font-size:30px"><!---&#11167;---></span>
@@ -60,7 +60,7 @@
               <div class="carousel-content">
                   <center>
                 <h3 class="animated fadeInDown" style="color:white;width:70%;">
-                    We do!<br><br>Synergōs can provide you with ongoing financial planning and wealth management 
+                    We do!<br><br>Synergos can provide you with ongoing financial planning and wealth management 
 					tailored to your unique needs while you focus on running your business.<br><br>Allow us to work on your behalf.
                  </h3>
                   </center>
@@ -126,7 +126,7 @@
               independent contractors and emerging business owners across the continental United States. We align your values, goals and resources 
               to craft tailored financial solutions.  And, most importantly, we work with you to implement the recommendations through our coaching 
               services – after all, a plan is only as good as its implementation.--->
-              Synergōs Advisory develops comprehensive financial solutions to help 
+              Synergos Advisory develops comprehensive financial solutions to help 
               clients – self-employed individuals, business owners, entrepreneurs, 
               technology professionals and those who care about their financial 
               future -- achieve the quality of life they aspire to.  
@@ -149,7 +149,7 @@
                 </li>
                 <li>
                     <b>Fiduciary duty</b>.  We always put our clients’ interests first.  
-                Synergōs is a fee-only advisor and does not sell any financial products 
+                Synergos is a fee-only advisor and does not sell any financial products 
                 or receive commissions, referral fees or payments from insurance or investment products.
                 </li>
                 <li>

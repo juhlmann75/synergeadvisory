@@ -44,7 +44,7 @@ tr td {
     <!-- Intro Content -->
     <div class="row">
         <h2 >Build Your Plan</h2><br>
-		<h6 style="line-height: 1.5;">Allow Synergōs to serve as your guide on your path toward your aspirations.<br>
+		<h6 style="line-height: 1.5;">Allow Synergos to serve as your guide on your path toward your aspirations.<br>
 Select the categories below that match your interests. <br>
 Your custom plan will fall under one of three tiers: Pathfinder, Navigator or Trailblazer.</h6>
 		<form name="serviceForm">

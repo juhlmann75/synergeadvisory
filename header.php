@@ -11,7 +11,7 @@
 		$title = 'Build Your Plan';
 	}
 	else {
-		$title = 'Synergōs Advisory';
+		$title = 'Synergos Advisory';
 	}
   ?>
   <title><?php echo $title; ?></title>

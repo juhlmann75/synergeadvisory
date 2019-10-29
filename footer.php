@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-md-12" style="font-size:8pt;text-align:left;">
           <p>
-           Synerge Advisory LLC doing business as Synergōs Advisory is a registered investment adviser in the state of Washington. 
+           Synerge Advisory LLC doing business as Synergos Advisory is a registered investment adviser in the state of Washington. 
 		   The adviser may not transact business in states where it is not appropriately registered or exempt from registration. I
 		   ndividualized responses to persons that involve either the effecting of transactions in securities or the rendering of 
 		   personalized investment advice for compensation will not be made without registration or exemption.</p>
