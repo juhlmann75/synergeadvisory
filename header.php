@@ -90,7 +90,7 @@
           <li class="navlink"><a href="/index.php#services">Services</a></li>
           <li class="navlink"><a href="/index.php#contact">Contact</a></li>
 		  <li class="navlink dropdown dropdown-large">
-				<a href="#" style="background-color: transparent;" class="dropdown-toggle" data-toggle="dropdown">Insights & Tools (Beta)<b class="caret"></b></a>
+				<a href="#" style="background-color: transparent;" class="dropdown-toggle" data-toggle="dropdown">Insights & Tools<b class="caret"></b></a>
 				
 				<ul class="dropdown-menu dropdown-menu-large row">
 					<!---<ul style="float:right;list-style:none;">
