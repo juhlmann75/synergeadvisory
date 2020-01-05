@@ -21,7 +21,7 @@
           
           <!-- Slide 2 -->
           <div class="item">
-            <div class="carousel-background"><img src="images/seattle5h-min.JPG" alt=""></div>
+            <div class="carousel-background"><img src="images/slide2.JPG" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
                   <center>
@@ -38,12 +38,12 @@
 
           <!-- Slide 3 -->
           <div class="item">
-            <div class="carousel-background"><img src="images/seattle2h-min.jpg" alt=""></div>
+            <div class="carousel-background"><img src="images/slide3.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
                   <center>
                 <h3 class="animated fadeInDown" style="color:white;width:70%;">
-                    With all your time tied up in running your business, who’s making sure your personal finances are on track?
+                    With all your time tied up, who’s making sure your personal finances are on track?
                  </h3>
                   </center>
                 <p class="animated fadeInUp"></p>
@@ -55,7 +55,7 @@
 		  
 		  <!-- Slide 4 -->
           <div class="item">
-            <div class="carousel-background"><img src="images/seattle3h-min.jpg" alt=""></div>
+            <div class="carousel-background"><img src="images/slide4.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
                   <center>
