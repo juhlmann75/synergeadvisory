@@ -38,7 +38,7 @@
 
           <!-- Slide 3 -->
           <div class="item">
-            <div class="carousel-background"><img src="images/slide3.jpg" alt=""></div>
+            <div class="carousel-background"><img src="images/slide3.JPG" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
                   <center>
@@ -55,7 +55,7 @@
 		  
 		  <!-- Slide 4 -->
           <div class="item">
-            <div class="carousel-background"><img src="images/slide4.jpg" alt=""></div>
+            <div class="carousel-background"><img src="images/slide4.JPG" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
                   <center>
