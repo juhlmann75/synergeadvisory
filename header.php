@@ -88,7 +88,7 @@
           <li class="navlink"><a href="/">Home</a></li>
           <li class="navlink"><a href="/index.php#about">About</a></li>
           <li class="navlink"><a href="/index.php#services">Services</a></li>
-          <li class="navlink"><a href="/index.php#contact">Contact</a></li>
+          <li class="navlink"><a href="/blogs.php">Blogs</a></li>
 		  <li class="navlink dropdown dropdown-large">
 				<a href="#" style="background-color: transparent;" class="dropdown-toggle" data-toggle="dropdown">Insights & Tools<b class="caret"></b></a>
 				
@@ -129,6 +129,7 @@
 				</ul>
 				
 			</li>
+			<li class="navlink"><a href="/index.php#contact">Contact</a></li>
         </ul>
       </div>
     </div>
