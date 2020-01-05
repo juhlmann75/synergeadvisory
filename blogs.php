@@ -60,7 +60,7 @@ body {
 	  </div>
 	  <div class="card">
 		  <div class="image" onclick="openInNewTab('/files/blog/Hindsight Is 2020 Foresight Isnt.pdf');">
-			<img src="/images/blog/image5.png">
+			<img src="/images/blog/image5.PNG">
 		  </div>
 		  <div class="content">
 			<a class="header" href="/files/blog/Hindsight Is 2020 Foresight Isnt.pdf" target="_blank">Hindsight Is 20/20. Foresight Isn't</a>
@@ -68,7 +68,7 @@ body {
 	  </div>
 	  <div class="card">
 		  <div class="image" onclick="openInNewTab('/files/blog/10 Ways Investments and Markets Have Evolved.pdf');">
-			<img src="/images/blog/image6.png">
+			<img src="/images/blog/image6.PNG">
 		  </div>
 		  <div class="content">
 			<a class="header" href="/files/blog/10 Ways Investments and Markets Have Evolved.pdf" target="_blank">10 Ways Investments and Markets Have Evolved</a>
