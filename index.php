@@ -26,8 +26,7 @@
               <div class="carousel-content">
                   <center>
                 <h3 class="animated fadeInDown" style="color:white;width:70%;">
-                    As an entrepreneur, you’re juggling personnel decisions, capital allocation, 
-					growing sales, cutting costs and constantly putting fires out…
+                    As a STEM professional, all your time and energy are spent on bringing good things to life...
                   </h3></center>
                 <p class="animated fadeInUp"></p>
                 <a href="#about" class="btn-get-started animated fadeInUp readmore">Learn More</a>
@@ -43,7 +42,7 @@
               <div class="carousel-content">
                   <center>
                 <h3 class="animated fadeInDown" style="color:white;width:70%;">
-                    With all your time tied up, who’s making sure your personal finances are on track?
+                    With your time tied up, who's making sure your personal finances are on track?
                  </h3>
                   </center>
                 <p class="animated fadeInUp"></p>
@@ -60,8 +59,7 @@
               <div class="carousel-content">
                   <center>
                 <h3 class="animated fadeInDown" style="color:white;width:70%;">
-                    We do!<br><br>Synergos can provide you with ongoing financial planning and wealth management 
-					tailored to your unique needs while you focus on running your business.<br><br>Allow us to work on your behalf.
+                    We can! <br><br> Synergos can provide you with ongoing financial planning and wealth management tailored to your unique needs while you focus on what you do best. <br><br> Allow us to work on your behalf.
                  </h3>
                   </center>
                 <p class="animated fadeInUp"></p>
@@ -127,9 +125,7 @@
               to craft tailored financial solutions.  And, most importantly, we work with you to implement the recommendations through our coaching 
               services – after all, a plan is only as good as its implementation.--->
               Synergos Advisory develops comprehensive financial solutions to help 
-              clients – self-employed individuals, business owners, entrepreneurs, 
-              technology professionals and those who care about their financial 
-              future -- achieve the quality of life they aspire to.  
+              you – STEM entrepreneurs and professionals -- achieve the quality of life you aspire to.  
               <br><br>
               We differentiate ourselves by incorporating:</p>
               <br>
@@ -153,7 +149,9 @@
                 or receive commissions, referral fees or payments from insurance or investment products.
                 </li>
                 <li>
-                    <b>Technology</b>. We understand you lead a busy life.  So we’ve incorporated tools to facilitate online collaboration and virtual meetings.  We want to ensure your time is well spent on the process – not fighting traffic to get to and from appointments although we are always happy to meet with you in-person, too.
+                    <b>Technology</b>. We understand you lead a busy life.  So we’ve incorporated tools to facilitate online collaboration and virtual meetings anywhere in the continental U.S.  
+					We want to ensure your time is well spent on the process – not fighting traffic to get to and from appointments although we are always happy to 
+					meet with you in-person, too.
                 </li>
               </ul>
             <br>
@@ -209,7 +207,7 @@
                <li class="serviceList">Cash Flow Management Strategies</li>
                <li class="serviceList">Financing and SBA Strategies</li>
                <li class="serviceList">Tax Planning Strategies</li>
-               <li class="serviceList">Business Retirement Strategies</li>
+               <li class="serviceList">Retirement Planning</li>
                <li class="serviceList">Deferred Compensation Strategies</li>
                <li class="serviceList">Succession Planning</li>
                <li class="serviceList">Exit Strategies</li>
@@ -229,6 +227,7 @@
                <li class="serviceList">Income Strategies</li>
                <li class="serviceList">Socially Responsible Investing and Environmental-Social-Governance (ESG) Solutions</li>
                <li class="serviceList">Impact Investing</li>
+			   <!---<li class="serviceList">401(k), SIMPLE & SEP IRAs, Defined </li>--->
             </ul>
         </div>
       </div>

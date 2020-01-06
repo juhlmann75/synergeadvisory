@@ -36,9 +36,10 @@ led to the published works “The Millionaire Next Door” and “The Millionair
 uncover opportunities for positive changes in behavior so you can build and maintain your wealth over
 time.
 </div>
-<button style="margin-bottom:-3px;background:#002060;font-weight:bold;" type="button" onclick="alert('The assessment is not loaded yet');" data-token="UVmsqXF3DYKgA8jbvKQb" class="embed-survey-start-button">
-Wealth Building Potential Assessment</button><script src="https://measure.datapoints.com/js/embed.js?v=1.031" 
-data-id="survey" data-domain="https://measure.datapoints.com" data-token="UVmsqXF3DYKgA8jbvKQb"></script>
+<button style="margin-bottom:-3px;background:#002060;font-weight:bold;" type="button" onclick="alert('The assessment is not loaded yet');" data-token="7MOzVncdSjnxv4wjXNy2" class="embed-survey-start-button">
+Wealth Building Potential Assessment</button>
+<script src="https://measure.datapoints.com/js/embed.js?v=1.031" 
+data-id="survey" data-domain="https://measure.datapoints.com" data-token="7MOzVncdSjnxv4wjXNy2"></script>
 </div>
 <?php
 }
@@ -54,8 +55,8 @@ wealth building. Career Fit is a short assessment that can help you understand t
 career and long-term income potential, one of the first steps toward building success and finding
 happiness, ultimately affecting all future financial planning.
 </div>
-<button style="margin-bottom:-3px;background:#002060;font-weight:bold;" type="button" onclick="alert('The assessment is not loaded yet');" data-token="ObedLHwAJVBioWFLSnpC" class="embed-survey-start-button">
-Career Fit Assessment</button><script src="https://measure.datapoints.com/js/embed.js?v=1.031" data-id="survey" data-domain="https://measure.datapoints.com" data-token="ObedLHwAJVBioWFLSnpC"></script>
+<button style="margin-bottom:-3px;background:#002060;font-weight:bold;" type="button" onclick="alert('The assessment is not loaded yet');" data-token="UVmsqXF3DYKgA8jbvKQb" class="embed-survey-start-button">
+Career Fit Assessment</button><script src="https://measure.datapoints.com/js/embed.js?v=1.031" data-id="survey" data-domain="https://measure.datapoints.com" data-token="UVmsqXF3DYKgA8jbvKQb"></script>
 </div>
 <?php 
 }
@@ -72,8 +73,8 @@ you build overtime, but more importantly, it can impact if you achieve your fina
 Next Door“ and “The Millionaire Mind“ books. Take the assessment to find out how you react to market
 changes and be better prepared for future financial planning.
 </div>
-<button style="margin-bottom:-3px;background:#002060;font-weight:bold;" type="button" onclick="alert('The assessment is not loaded yet');" data-token="sgP2O9ngbGPIBirWhvn1" class="embed-survey-start-button">
-Investor Composure Assessment</button><script src="https://measure.datapoints.com/js/embed.js?v=1.031" data-id="survey" data-domain="https://measure.datapoints.com" data-token="sgP2O9ngbGPIBirWhvn1"></script>
+<button style="margin-bottom:-3px;background:#002060;font-weight:bold;" type="button" onclick="alert('The assessment is not loaded yet');" data-token="5BuRnDel8TdjotZbOijt" class="embed-survey-start-button">
+Investor Composure Assessment</button><script src="https://measure.datapoints.com/js/embed.js?v=1.031" data-id="survey" data-domain="https://measure.datapoints.com" data-token="5BuRnDel8TdjotZbOijt"></script>
 </div>
 <?php
 }
@@ -88,8 +89,8 @@ firm, effective financial planning behaviors can have a profound effect on your 
 financial goals and accumulating wealth. <a href="https://www.datapoints.com" class="dataLink" target="_blank">DataPoints'</a> findings are based on 40+ years of data and
 research that lead to best-selling “The Millionaire Next Door” and “The Millionaire Mind” books.
 </div>
-<button style="margin-bottom:-3px;background:#002060;font-weight:bold;" type="button" onclick="alert('The assessment is not loaded yet');" data-token="7MOzVncdSjnxv4wjXNy2" class="embed-survey-start-button">
-Financial Planning Habits Assessment</button><script src="https://measure.datapoints.com/js/embed.js?v=1.031" data-id="survey" data-domain="https://measure.datapoints.com" data-token="7MOzVncdSjnxv4wjXNy2"></script>
+<button style="margin-bottom:-3px;background:#002060;font-weight:bold;" type="button" onclick="alert('The assessment is not loaded yet');" data-token="sgP2O9ngbGPIBirWhvn1" class="embed-survey-start-button">
+Financial Planning Habits Assessment</button><script src="https://measure.datapoints.com/js/embed.js?v=1.031" data-id="survey" data-domain="https://measure.datapoints.com" data-token="sgP2O9ngbGPIBirWhvn1"></script>
 </div>
 <?php 
 }
