@@ -23,27 +23,27 @@ hr {
 	<h1>Videos</h1>
 	<hr>
 	<iframe src="https://player.vimeo.com/video/235915330?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-	<p><a href="https://vimeo.com/235915330">Change your financial future today</a> from <a href="https://vimeo.com/rightcapital">RightCapital</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+	<p><a href="https://vimeo.com/235915330">Change your financial future today</a></p>
 	
 	<hr>
 	
 	<iframe src="https://player.vimeo.com/video/290752366?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-	<p><a href="https://vimeo.com/290752366">Benefits of a Tax Efficient Distribution Strategy</a> from <a href="https://vimeo.com/rightcapital">RightCapital</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+	<p><a href="https://vimeo.com/290752366">Benefits of a Tax Efficient Distribution Strategy</a></p>
 	
 	<hr>
 	
 	<iframe src="https://player.vimeo.com/video/309298681?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-	<p><a href="https://vimeo.com/309298681">Stay On Top of Your Financial Life</a> from <a href="https://vimeo.com/rightcapital">RightCapital</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+	<p><a href="https://vimeo.com/309298681">Stay On Top of Your Financial Life</a></p>
 	
 	<hr>
 	
 	<iframe src="https://player.vimeo.com/video/334766149?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-	<p><a href="https://vimeo.com/334766149">Take Control of Your Student Loans</a> from <a href="https://vimeo.com/rightcapital">RightCapital</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+	<p><a href="https://vimeo.com/334766149">Take Control of Your Student Loans</a></p>
 	
 	<hr>
 	
 	<iframe src="https://player.vimeo.com/video/354273930?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-	<p><a href="https://vimeo.com/354273930">Get Retirement Ready</a> from <a href="https://vimeo.com/rightcapital">RightCapital</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+	<p><a href="https://vimeo.com/354273930">Get Retirement Ready</a></p>
 </div>
 
 <?php require 'include/javascript/master.php' ?>
