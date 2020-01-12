@@ -26,11 +26,38 @@ body {
 	<hr>
 	<div class="ui four stackable cards">
 	  <div class="card">
+		  <div class="image" onclick="openInNewTab('/files/blog/20200110 SECURE Act Blog.pdf');">
+			<img src="/images/blog/image9.jpg">
+		  </div>
+		  <div class="content">
+			<a class="header" href="/files/blog/20200110 SECURE Act Blog.pdf" target="_blank">SECURE Act: What You Need to Know</a>
+		  </div>
+		 </a>
+	  </div>
+	  <div class="card">
 		  <div class="image" onclick="openInNewTab('/files/blog/Fiduciary.pdf');">
 			<img src="/images/blog/image1.jpg">
 		  </div>
 		  <div class="content">
 			<a class="header" href="/files/blog/Fiduciary.pdf" target="_blank">What 401(k) Plan Sponsors Need to Know</a>
+		  </div>
+		 </a>
+	  </div>
+	  <div class="card">
+		  <div class="image" onclick="openInNewTab('https://financeinsights.net/N4ZTvrDHOmQrH5xm5HvMjd');">
+			<img src="/images/blog/image7.jpg">
+		  </div>
+		  <div class="content">
+			<a class="header" href="https://financeinsights.net/N4ZTvrDHOmQrH5xm5HvMjd" target="_blank">How to Live a Rich Life</a>
+		  </div>
+		 </a>
+	  </div>
+	  <div class="card">
+		  <div class="image" onclick="openInNewTab('https://financeinsights.net/ZBPfxQginPZ5Tvmq3Cd8vM');">
+			<img src="/images/blog/image8.png">
+		  </div>
+		  <div class="content">
+			<a class="header" href="https://financeinsights.net/ZBPfxQginPZ5Tvmq3Cd8vM" target="_blank">Make the Greatest Impact with Charitable Giving</a>
 		  </div>
 		 </a>
 	  </div>

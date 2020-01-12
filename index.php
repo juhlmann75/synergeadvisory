@@ -227,7 +227,7 @@
                <li class="serviceList">Income Strategies</li>
                <li class="serviceList">Socially Responsible Investing and Environmental-Social-Governance (ESG) Solutions</li>
                <li class="serviceList">Impact Investing</li>
-			   <!---<li class="serviceList">401(k), SIMPLE & SEP IRAs, Defined </li>--->
+			   <li class="serviceList">401(k), SIMPLE & SEP IRAs, Defined Benefit and Cash Balance Plans</li>
             </ul>
         </div>
       </div>
