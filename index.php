@@ -325,9 +325,11 @@
             <i class="fa fa-map-marker fa-4x"></i>
             <h5>Main Office</h5>
             <p>
-              The Met Tower<br>
-              1942 Westlake Avenue, # 904<br>
-              Seattle, WA 98101
+				Westlake Tower<br>
+
+				1601 5th Ave., 11th Floor<br>
+
+				Seattle, WA 98101<br>
             </p>
           </div>
         </div>

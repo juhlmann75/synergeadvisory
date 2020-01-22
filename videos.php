@@ -44,6 +44,12 @@ hr {
 	
 	<iframe src="https://player.vimeo.com/video/354273930?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 	<p><a href="https://vimeo.com/354273930">Get Retirement Ready</a></p>
+	
+	<hr>
+	
+	<iframe width="640" height="360" src="https://www.youtube.com/embed/GguDOpP8I_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<p><a href="https://www.youtube.com/embed/GguDOpP8I_g">Goal Based Investing</a></p>
+	
 </div>
 
 <?php require 'include/javascript/master.php' ?>
