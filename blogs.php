@@ -25,6 +25,14 @@ body {
 	<h1>Blogs</h1>
 	<hr>
 	<div class="ui four stackable cards">
+		<div class="card">
+		  <div class="image" onclick="openInNewTab('/files/blog/ESG.pdf');">
+			<img src="/images/blog/image10.jpg">
+		  </div>
+		  <div class="content">
+			<a class="header" href="/files/blog/ESG.pdf" target="_blank">Invest with Purpose</a>
+		  </div>
+	  </div>
 	  <div class="card">
 		  <div class="image" onclick="openInNewTab('/files/blog/20200110 SECURE Act Blog.pdf');">
 			<img src="/images/blog/image9.jpg">
