@@ -109,6 +109,14 @@ body {
 			<a class="header" href="/files/blog/10 Ways Investments and Markets Have Evolved.pdf" target="_blank">10 Ways Investments and Markets Have Evolved</a>
 		  </div>
 	  </div>
+	  <div class="card">
+		  <div class="image" onclick="openInNewTab('https://lnkd.in/gUnJMrG');">
+			<img src="/images/blog/image11.jpeg">
+		  </div>
+		  <div class="content">
+			<a class="header" href="https://lnkd.in/gUnJMrG" target="_blank">Bare Facts about Bear Markets</a>
+		  </div>
+	  </div>
 	</div>
 </div>
 
