@@ -338,7 +338,6 @@
             <i class="fa fa-phone fa-4x"></i>
             <h5>Call</h5>
             <p>
-             Toll free:  877.752.6609  (877 PLAN N0W)<br>
              Direct:	206.800.8056
             </p>
           </div>

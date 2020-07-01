@@ -140,6 +140,6 @@
       </div>
     </div>
   </nav>
-  <a href='https://financeinsights.net/g6pUKQbhNG3JcAb7jc02Qr' target="_blank">
+ <!--  <a href='https://financeinsights.net/g6pUKQbhNG3JcAb7jc02Qr' target="_blank">
 	<img src="https://d281oufm7mm6g9.cloudfront.net/campaigns/hto_2020/web_widgets/horiz.jpg" style="margin-top:70px;width:100%;" class="underNavImg">
-  </a>
+  </a> -->
