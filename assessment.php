@@ -32,7 +32,7 @@ Understanding your patterns of wealth behaviors can help identify your strengths
 improvement as you create your personalized financial plan. Synergōs Advisory collaborates with
 <a href="https://www.datapoints.com" class="dataLink" target="_blank">DataPoints</a>, a behavioral-finance research and technology firm, to develop a comprehensive picture of
 your wealth-related behaviors, attitudes, and values, all based on 40+ years of data and research that
-led to the published works “The Millionaire Next Door” and “The Millionaire Mind.” This assessment can
+led to the published works "The Millionaire Next Door" and "The Millionaire Mind." This assessment can
 uncover opportunities for positive changes in behavior so you can build and maintain your wealth over
 time.
 </div>
@@ -49,7 +49,7 @@ else if($assess == "career-fit"){
 <h4>Your career fit and long-term income potential. Take the assessment.</h4>
 
 <div class="assessInfo">
-Synergōs Advisory strongly believes that having a career that “fits” your interests and skills, and job
+Synergōs Advisory strongly believes that having a career that "fits" your interests and skills, and job
 satisfaction, typically relates to your income potential — an important factor in savings and, therefore,
 wealth building. Career Fit is a short assessment that can help you understand the match between your
 career and long-term income potential, one of the first steps toward building success and finding
@@ -69,8 +69,8 @@ else if($assess == "investor-composure"){
 According to extensive research conducted by <a href="https://www.datapoints.com" class="dataLink" target="_blank">DataPoints</a>, a behavioral finance research and technology
 firm, how you react to changes in the market can not only have a profound impact on how much wealth
 you build overtime, but more importantly, it can impact if you achieve your financial goals and dreams.
-<a href="https://www.datapoints.com" class="dataLink" target="_blank">DataPoints'</a> findings are based on 40+ years of data and research that led to best-selling “The Millionaire
-Next Door“ and “The Millionaire Mind“ books. Take the assessment to find out how you react to market
+<a href="https://www.datapoints.com" class="dataLink" target="_blank">DataPoints'</a> findings are based on 40+ years of data and research that led to best-selling "The Millionaire
+Next Door" and "The Millionaire Mind" books. Take the assessment to find out how you react to market
 changes and be better prepared for future financial planning.
 </div>
 <button style="margin-bottom:-3px;background:#002060;font-weight:bold;" type="button" onclick="alert('The assessment is not loaded yet');" data-token="5BuRnDel8TdjotZbOijt" class="embed-survey-start-button">
@@ -87,10 +87,22 @@ else if($assess == "financial-planning-habits"){
 According to extensive research conducted by <a href="https://www.datapoints.com" class="dataLink" target="_blank">DataPoints</a>, a behavioral finance research and technology
 firm, effective financial planning behaviors can have a profound effect on your success in achieving your
 financial goals and accumulating wealth. <a href="https://www.datapoints.com" class="dataLink" target="_blank">DataPoints'</a> findings are based on 40+ years of data and
-research that lead to best-selling “The Millionaire Next Door” and “The Millionaire Mind” books.
+research that lead to best-selling "The Millionaire Next Door" and "The Millionaire Mind" books.
 </div>
 <button style="margin-bottom:-3px;background:#002060;font-weight:bold;" type="button" onclick="alert('The assessment is not loaded yet');" data-token="sgP2O9ngbGPIBirWhvn1" class="embed-survey-start-button">
 Financial Planning Habits Assessment</button><script src="https://measure.datapoints.com/js/embed.js?v=1.031" data-id="survey" data-domain="https://measure.datapoints.com" data-token="sgP2O9ngbGPIBirWhvn1"></script>
+</div>
+<?php 
+}
+else if($assess == "financial-life-satisfaction"){
+?>
+<div class="container" >
+<h4>How satisfied are you with your financial life? Take this quick test to find out.</h4>
+
+<div class="assessInfo">
+According to extensive research conducted by <a href="https://www.datapoints.com" class="dataLink" target="_blank">DataPoints</a>, a behavioral finance research and technology firm, this assessment can provide you with insights on how you feel about your financial wellness. <a href="https://www.datapoints.com" class="dataLink" target="_blank">DataPoints'</a> findings are based on 40+ years of data and research that led to best-selling "The Millionaire Next Door" and "The Millionaire Mind" books. Take the assessment to find out how satisfied you are with the way your household manages its financial life.
+</div>
+<a href="https://measure.datapoints.com/survey/e/JYRh5zJa1vk7wz5Bhnho" target="_blank"><button style="margin-bottom:-3px;background:#002060;font-weight:bold;color:white;" type="button">Financial Life Satisfaction Assessment</button></a>
 </div>
 <?php 
 }

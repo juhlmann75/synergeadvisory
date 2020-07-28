@@ -113,6 +113,7 @@
 							<li><a href="/assessment.php?a=career-fit">Career Fit Assessment</a></li>
 							<li><a href="/assessment.php?a=investor-composure">Investor Composure Assessment</a></li>
 							<li><a href="/assessment.php?a=financial-planning-habits">Financial Planning Habits Assessment</a></li>
+							<li><a href="/assessment.php?a=financial-life-satisfaction">Financial Life Satisfaction Assessment</a></li>
 						</ul>
 					</li>
 					<li class="col-sm-5">
@@ -122,6 +123,7 @@
 							<li><a href="/calculator.php?c=what-are-the-tax-savings-of-a-qualified-retirement_cafeteria-plan">What are the tax savings of a qualified retirement/cafeteria plan?</a></li>
 							<li><a href="/calculator.php?c=what-are-my-new-business-startup-costs">What are my new business startup costs?</a></li>
 							<li><a href="/calculator.php?c=should-I-pay-or-charge-monthly-quarterly-or-annually">Should I pay or charge monthly, quarterly or annually?</a></li>
+							<li><a href="/calculator.php?c=what-is-the-value-of-my-business">What is the value of my business?</a></li>
 							<li><a href="/calculator.php" style="color:blue">More >></a></li>
 						</ul>
 					</li>
