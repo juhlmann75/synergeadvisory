@@ -27,7 +27,7 @@ Synergos Advisory LLC does not make any representations or warranties as to the 
                 <li><a href="files/ADV_Part_2A_2B.pdf" target="_blank">Form ADV Part 2A</a></li>
             </ul>
             <span style="float:right" id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=oT9MYY6AC4YK2fMliNjQIwTmcc8wSBBiuQsnId9kqsWzBOhUuNJxEY1RGvpV"></script></span>
-            <center>Synergos Advisory LLC Copyright &copy; 2019</center>
+            <center>Synergos Advisory LLC Copyright &copy; <?php echo date("Y");?></center>
         </div>
       </div>
     </div>
