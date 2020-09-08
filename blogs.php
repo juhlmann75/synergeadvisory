@@ -26,6 +26,14 @@ body {
 	<hr>
 	<div class="ui four stackable cards">
 		<div class="card">
+		  <div class="image" onclick="openInNewTab('https://financeinsights.net/0wgtj2jCYvnYuqpAZcNNzZ');">
+			<img src="https://snappykraken-assets.s3.amazonaws.com/vin/2020/03/assets/img/bg_hero.gif">
+		  </div>
+		  <div class="content">
+			<a class="header" href="https://financeinsights.net/0wgtj2jCYvnYuqpAZcNNzZ" target="_blank">How Sustainable Investing Is Changing People, Business & The World</a>
+		  </div>
+	  </div>
+	  <div class="card">
 		  <div class="image" onclick="openInNewTab('/files/blog/ESG.pdf');">
 			<img src="/images/blog/image10.jpg">
 		  </div>
