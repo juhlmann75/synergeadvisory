@@ -26,6 +26,38 @@ body {
 	<hr>
 	<div class="ui four stackable cards">
 		<div class="card">
+		  <div class="image" onclick="openInNewTab('https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/YVnYdd0VX0.pdf');">
+			<img src="/images/blog/401K Rollover.png">
+		  </div>
+		  <div class="content">
+			<a class="header" href="https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/YVnYdd0VX0.pdf" target="_blank">What Should I Do With My Old 401(k) or Employer Plan?</a>
+		  </div>
+	  </div>
+	  <div class="card">
+		  <div class="image" onclick="openInNewTab('https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/pvXGprRdnr.pdf');">
+			<img src="/images/blog/Investor Recovery.png">
+		  </div>
+		  <div class="content">
+			<a class="header" href="https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/pvXGprRdnr.pdf" target="_blank">Investor Recovery Report: What Does The Future Hold?</a>
+		  </div>
+	  </div>
+	  <div class="card">
+		  <div class="image" onclick="openInNewTab('https://financeinsights.net/1vQSaKEF4qr6ub310iEnvv');">
+			<img src="/images/blog/Smarter Investor.png">
+		  </div>
+		  <div class="content">
+			<a class="header" href="https://financeinsights.net/1vQSaKEF4qr6ub310iEnvvG" target="_blank">How to Be a Smarter Investor in Uncertain Times</a>
+		  </div>
+	  </div>
+	  <div class="card">
+		  <div class="image" onclick="openInNewTab('https://financeinsights.net/3LgiLm0c8Gw5ir5OxTmwxE');">
+			<img src="/images/blog/Hidden Power.png">
+		  </div>
+		  <div class="content">
+			<a class="header" href="https://financeinsights.net/3LgiLm0c8Gw5ir5OxTmwxE" target="_blank">Unlock the Hidden Power of Your Goals</a>
+		  </div>
+	  </div>
+		<div class="card">
 		  <div class="image" onclick="openInNewTab('https://financeinsights.net/0wgtj2jCYvnYuqpAZcNNzZ');">
 			<img src="https://snappykraken-assets.s3.amazonaws.com/vin/2020/03/assets/img/bg_hero.gif">
 		  </div>
@@ -78,14 +110,6 @@ body {
 		 </a>
 	  </div>
 	  <div class="card">
-		  <div class="image" onclick="openInNewTab('https://financeinsights.net/N4ZTvjACO38EC5VDZFvKZm');">
-			<img src="/images/blog/image2.png">
-		  </div>
-		  <div class="content">
-			<a class="header" href="https://financeinsights.net/N4ZTvjACO38EC5VDZFvKZm" target="_blank">Finish Strong. Live Your Best Life in 2020</a>
-		  </div>
-	  </div>
-	  <div class="card">
 		  <div class="image" onclick="openInNewTab('https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/KJmlY010PE.pdf');">
 			<img src="/images/blog/image3.png">
 		  </div>
@@ -123,38 +147,6 @@ body {
 		  </div>
 		  <div class="content">
 			<a class="header" href="https://lnkd.in/gUnJMrG" target="_blank">Bare Facts about Bear Markets</a>
-		  </div>
-	  </div>
-	  <div class="card">
-		  <div class="image" onclick="openInNewTab('https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/YVnYdd0VX0.pdf');">
-			<img src="/images/blog/401K Rollover.png">
-		  </div>
-		  <div class="content">
-			<a class="header" href="https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/YVnYdd0VX0.pdf" target="_blank">What Should I Do With My Old 401(k) or Employer Plan?</a>
-		  </div>
-	  </div>
-	  <div class="card">
-		  <div class="image" onclick="openInNewTab('https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/pvXGprRdnr.pdf');">
-			<img src="/images/blog/Investor Recovery.png">
-		  </div>
-		  <div class="content">
-			<a class="header" href="https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/pvXGprRdnr.pdf" target="_blank">Investor Recovery Report: What Does The Future Hold?</a>
-		  </div>
-	  </div>
-	  <div class="card">
-		  <div class="image" onclick="openInNewTab('https://financeinsights.net/1vQSaKEF4qr6ub310iEnvv');">
-			<img src="/images/blog/Smarter Investor.png">
-		  </div>
-		  <div class="content">
-			<a class="header" href="https://financeinsights.net/1vQSaKEF4qr6ub310iEnvvG" target="_blank">How to Be a Smarter Investor in Uncertain Times</a>
-		  </div>
-	  </div>
-	  <div class="card">
-		  <div class="image" onclick="openInNewTab('https://financeinsights.net/3LgiLm0c8Gw5ir5OxTmwxE');">
-			<img src="/images/blog/Hidden Power.png">
-		  </div>
-		  <div class="content">
-			<a class="header" href="https://financeinsights.net/3LgiLm0c8Gw5ir5OxTmwxE" target="_blank">Unlock the Hidden Power of Your Goals</a>
 		  </div>
 	  </div>
 	</div>
