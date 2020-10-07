@@ -72,7 +72,8 @@
 </head>
 
 <body>
-
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v8.0" nonce="PphIxwD9"></script>
   <!-- Navigation -->
   <nav class="navbar navbar-default navbar-fixed-top">
     <div class="myNav container">

@@ -115,7 +115,9 @@
           <img src="img/about-img.jpg" alt="">
         </div>--->
 
-        <div class="col-md-12 content">
+        
+
+        <div class="col-md-8 content">
           <!---<h2>Lorem ipsum dolor sit amet, consectetur adipiscing elite storium paralate</h2>
           <h3>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
             laborum.</h3>--->
@@ -154,13 +156,21 @@
 					meet with you in-person, too.
                 </li>
               </ul>
-            <br>
+            
+        </div>
+        <div class="col-md-4 content">
+        	<div class="fb-page" data-href="https://www.facebook.com/synergosadvisoryllc" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/synergosadvisoryllc" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/synergosadvisoryllc">Synergos Advisory LLC</a></blockquote></div>
+        </div>
+      </div>
+      <div class="row">
+      	<div class="col-md-12 content">
+      		<br>
                 <a href="https://calendly.com/synergosadvice" class="btn-schedule animated" target="_blank" style="color:#002060;font-weight:bold;">Schedule Complimentary Consultation</a>
           
           <br>
             <br>
           <input id="aboutButton" type="button" value="Meet Our Founder" onclick="location.href='david-uhlmann.php';">
-        </div>
+      </div>
       </div>
     </div>
   </section>
@@ -311,6 +321,7 @@
           </form>
 
         </div>
+        
       </div>
 
     </div>
