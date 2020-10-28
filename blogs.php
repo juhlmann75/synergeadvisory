@@ -21,9 +21,18 @@ body {
 }
 </style>
 
+
 <div class="blogContainer" style="width:80%;margin:auto;margin-top:100px;margin-bottom:100px;">
 	<h1>Blogs</h1>
 	<hr>
+	<div class="row">
+	<div class="col-md-12">
+		<!-- SNAPPY KRAKEN WIDGET -->
+<div id="skOptinContainer_8GXVkvdYyd"></div><script>var pageUrl='https://financeinsights.net/1vQS8rPfJXd4Fd2ObUzQN7?widget';var pieceHash='8GXVkvdYyd';</script><script src="https://d281oufm7mm6g9.cloudfront.net/campaigns/widget/widget_v44.js"></script>
+<!-- SNAPPY KRAKEN WIDGET -->
+	</div>
+</div>
+<hr>
 	<div class="ui four stackable cards">
 		<div class="card">
 		  <div class="image" onclick="openInNewTab('https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/YVnYdd0VX0.pdf');">
