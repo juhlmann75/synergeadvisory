@@ -212,18 +212,16 @@
         <div class="col-md-4">
           <h4>Financial Planning</h4>
            <ul>
-               <li class="serviceList">Revenue and Expense Projections</li>
+               <li class="serviceList">Income and Expense Projections</li>
                <li class="serviceList">Budgeting</li>
                <li class="serviceList">Cash Flow Management Strategies</li>
                <li class="serviceList">Financing and SBA Strategies</li>
                <li class="serviceList">Tax Planning Strategies</li>
                <li class="serviceList">Retirement Planning</li>
                <li class="serviceList">Deferred Compensation Strategies</li>
-               <li class="serviceList">Succession Planning</li>
-               <li class="serviceList">Exit Strategies</li>
                <li class="serviceList">Risk Management Strategies</li>
                <li class="serviceList">Estate Planning Strategies</li>
-               <li class="serviceList">Stock Options and RS/RSU Planning</li>
+               <li class="serviceList">NSO, ISO, ESPP, RS/RSU Planning</li>
             </ul>
         </div>
         <div class="col-md-4">
@@ -235,8 +233,7 @@
                <li class="serviceList">Wealth Preservation Strategies</li>
                <li class="serviceList">Tax Efficient Portfolios </li>
                <li class="serviceList">Income Strategies</li>
-               <li class="serviceList">Socially Responsible Investing and Environmental-Social-Governance (ESG) Solutions</li>
-               <li class="serviceList">Impact Investing</li>
+               <li class="serviceList">Environmental-Social-Governance (ESG) Solutions</li>
 			   <li class="serviceList">401(k), SIMPLE & SEP IRAs, Defined Benefit and Cash Balance Plans</li>
             </ul>
         </div>

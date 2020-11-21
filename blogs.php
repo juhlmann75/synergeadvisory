@@ -21,15 +21,32 @@ body {
 }
 </style>
 
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+	<div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      	<!-- SNAPPY KRAKEN WIDGET -->
+<div id="skOptinContainer_8GXVkvdYyd"></div><script>var pageUrl='https://financeinsights.net/1vQS8rPfJXd4Fd2ObUzQN7?widget';var pieceHash='8GXVkvdYyd';</script><script src="https://d281oufm7mm6g9.cloudfront.net/campaigns/widget/widget_v44.js"></script>
+<!-- SNAPPY KRAKEN WIDGET -->
+      </div>
+    </div>
+  </div>
+ 
+</div>
+
 
 <div class="blogContainer" style="width:80%;margin:auto;margin-top:100px;margin-bottom:100px;">
 	<h1>Blogs</h1>
 	<hr>
 	<div class="row">
 	<div class="col-md-12">
-		<!-- SNAPPY KRAKEN WIDGET -->
-<div id="skOptinContainer_8GXVkvdYyd"></div><script>var pageUrl='https://financeinsights.net/1vQS8rPfJXd4Fd2ObUzQN7?widget';var pieceHash='8GXVkvdYyd';</script><script src="https://d281oufm7mm6g9.cloudfront.net/campaigns/widget/widget_v44.js"></script>
-<!-- SNAPPY KRAKEN WIDGET -->
+		
 	</div>
 </div>
 <hr>
@@ -170,6 +187,9 @@ body {
 	  var win = window.open(url, '_blank');
 	  win.focus();
 	}
+	$(document).ready(function(){
+        $("#exampleModal").modal('show');
+    });
   </script>
 
 </body>
