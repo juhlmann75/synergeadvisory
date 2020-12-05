@@ -54,7 +54,7 @@
 
 	@media (min-width: 810px) {
 		.myNav.container {
-			width: 992px !important;
+			width: 1200px !important;
 		}
 		.underNavImg {
 			height:130px;
@@ -94,6 +94,7 @@
           <li class="navlink"><a href="/">Home</a></li>
           <li class="navlink"><a href="/index.php#about">About</a></li>
           <li class="navlink"><a href="/index.php#services">Services</a></li>
+          <li class="navlink"><a href="/investment.php">Investments</a></li>
           <li class="navlink"><a href="/blogs.php">Blogs</a></li>
 		  <li class="navlink"><a href="/videos.php">Videos</a></li>
 		  <li class="navlink dropdown dropdown-large">

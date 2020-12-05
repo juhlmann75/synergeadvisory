@@ -51,7 +51,15 @@ body {
 </div>
 <hr>
 	<div class="ui four stackable cards">
-		<div class="card">
+	  <div class="card">
+		  <div class="image" onclick="openInNewTab('https://financeinsights.net/N4ZTKA2Sb1vVtpEb6U6gGl');">
+			<img src="/images/blog/image12.jpg">
+		  </div>
+		  <div class="content">
+			<a class="header" href="https://financeinsights.net/N4ZTKA2Sb1vVtpEb6U6gGl" target="_blank">Why It's a Mistake to Worry About Market Corrections</a>
+		  </div>
+	  </div>
+	  <div class="card">
 		  <div class="image" onclick="openInNewTab('https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/YVnYdd0VX0.pdf');">
 			<img src="/images/blog/401K Rollover.png">
 		  </div>
@@ -187,9 +195,9 @@ body {
 	  var win = window.open(url, '_blank');
 	  win.focus();
 	}
-	$(document).ready(function(){
+	setTimeout(function(){
         $("#exampleModal").modal('show');
-    });
+    }, 5000);
   </script>
 
 </body>

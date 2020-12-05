@@ -1,7 +1,7 @@
 <!-- Footer -->
   <footer>
-    <div class="container">
-      <div class="row">
+    <div class="container" style="width:80%;">
+      <div class="row" style="padding: 0;">
         <div class="col-md-12" style="font-size:8pt;text-align:left;">
           <p>
            Synergos Advisory LLC (“Synergos”) doing business as Synergos Advisory is a registered investment advisor offering advisory services in the State of Washington and in other jurisdictions where exempted. Registration does not imply a certain level of skill or training.
