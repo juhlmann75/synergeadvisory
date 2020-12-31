@@ -35,10 +35,11 @@
     <div class="container">
       <div class="row" style="padding:0">
         <div class="col-lg-6 mb-6">
-          <h1 class="display-3" style="">Investments Powered by Betterment</h1>
+          <h2 class="display-1" style="">Investments Powered by Betterment</h2>
+          <p style="font-family: Helvetica Neue,Helvetica,Arial,sans-serif;">Depending on what you're investing for and when you want it, we'll recommend a portfolio specific to you.  Built on Nobel Prize-winning research, your diversified portfolio is designed to help you earn more and achieve your goals.</p>
         </div>
         <div class="col-lg-6 mb-6">
-          <iframe src="https://www.youtube.com/embed/GguDOpP8I_g?loop=1&playlist=GguDOpP8I_g" width="500" height="270" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          <img src="https://www.betterment.com/uploads/2020/05/Donut-2.gif" width="500" height="300"></img>
          
         </div>
       </div>
