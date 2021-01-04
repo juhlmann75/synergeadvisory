@@ -41,7 +41,7 @@
 	
 	.navbar {
 		border: none !important;
-		height: 70px !important;
+		height: 75px !important;
 	}
 	
 	.navbar-default .navbar-nav>li>a {
@@ -89,7 +89,7 @@
         <a class="navbar-brand" href="/"><img src="images/synergoslogo.PNG" style="width:260px;margin-top:-20px;"/></a>
 
       </div>
-      <div id="navbar" class="navigation collapse navbar-collapse navbar-ex1-collapse staticLinks" style="background-color: #002060;padding:0px !important">
+      <div id="navbar" class="navigation collapse navbar-collapse navbar-ex1-collapse staticLinks" style="background-color: darkcyan;padding:0px !important">
         <ul class="nav navbar-nav" style="margin: 7.5px -15px !important;">
           <li class="navlink"><a href="/">Home</a></li>
           <li class="navlink"><a href="/index.php#about">About</a></li>
