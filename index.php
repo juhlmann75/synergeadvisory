@@ -333,11 +333,11 @@
             <i class="fa fa-map-marker fa-4x"></i>
             <h5>Main Office</h5>
             <p>
-				Westlake Tower<br>
+				South Lake Union<br>
 
-				1601 5th Ave., 11th Floor<br>
+				500 Yale Ave. N., Suite 400<br>
 
-				Seattle, WA 98101<br>
+				Seattle, WA 98109<br>
             </p>
           </div>
         </div>
