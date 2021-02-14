@@ -21,25 +21,30 @@
     <!-- /.row -->
     <br>
     <!-- Bio -->
-    <div class="container">
-        <h4 style="text-align:left">Qualifications</h4>
-        <hr>
-        <ul>
-			<li class="serviceList">CFP® CERTIFIED FINANCIAL PLANNER &#153; Practitioner</li>
-            <li class="serviceList">AAMS® Accredited Asset Management Specialist&#8480;</li>
-            <li class="serviceList">APMA® Accredited Portfolio Management Advisor&#8480;</li>
-            <li class="serviceList">BFA&#153;   Behavioral Financial Advisor</li>
-            <li class="serviceList">Series 66 – Uniform Combined State Law</li>
-        </ul>
-    </div>
-       
-    <div class="container">
-        <h4 style="text-align:left">Education</h4>
-        <hr>
-        <ul>
-            <li class="serviceList">Master of Science, Finance, Golden Gate University</li>
-            <li class="serviceList">Bachelor of Arts, Economics and International Relations, University of California, Davis</li>
-        </ul>
+    <div class="row">
+      <div class="col-lg-8">
+        <div class="container">
+            <h4 style="text-align:left">Qualifications</h4>
+            <ul>
+    			<li class="serviceList">CFP® CERTIFIED FINANCIAL PLANNER &#153; Practitioner</li>
+                <li class="serviceList">AAMS® Accredited Asset Management Specialist&#8480;</li>
+                <li class="serviceList">APMA® Accredited Portfolio Management Advisor&#8480;</li>
+                <li class="serviceList">BFA&#153;   Behavioral Financial Advisor</li>
+                <li class="serviceList">Series 66 – Uniform Combined State Law</li>
+            </ul>
+        </div>
+           
+        <div class="container">
+            <h4 style="text-align:left">Education</h4>
+            <ul>
+                <li class="serviceList">Master of Science, Finance, Golden Gate University</li>
+                <li class="serviceList">Bachelor of Arts, Economics and International Relations, University of California, Davis</li>
+            </ul>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <div class="fb-page" data-href="https://www.facebook.com/synergosadvisoryllc" data-tabs="timeline" data-width="" data-height="450" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/synergosadvisoryllc" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/synergosadvisoryllc">Synergos Advisory LLC</a></blockquote></div>
+      </div>
     </div>
        
        
@@ -51,10 +56,31 @@
             <li class="serviceList">Financial Advisor, Edward Jones, 2007 – 2011</li>
             <li class="serviceList">President/Founder, Photon Power, 2005 – 2006</li>
             <li class="serviceList">Director, Global Support Desk, Morgan Stanley Capital International and Barra Inc., 1995 -2004</li>
+            <li class="serviceList">
+                <a href="https://www.napfa.org/member/96187/29196" style="font-weight: 700; color:#002060" target="_blank">David R. Uhlmann is a NAPFA-Registered Financial Advisor</a><br>
+                The National Association of Personal Financial Advisors (NAPFA) is a leading professional association of Fee-Only 
+                financial advisors—highly trained professionals who are committed to working in the best interests of those they serve.
+            </li>
+            <li class="serviceList">
+              
+                <a target="_blank" style="font-weight: 700; color:#002060" href="https://www.letsmakeaplan.org/choose-a-cfp-professional/find-a-cfp-professional/Details/?key=0f3b200b-9ff1-4dfd-a07f-9af9b6d33fdb&SimpleSearch=False&Latitude=0&Longitude=0&AreasOfSpecialization=&LastName=Uhlmann&Page=1&Session=28273">
+                David R. Uhlmann is a CERTIFIED FINANCIAL PLANNER&#153; Professional - Click for Verification</a><br>
+                CFP® professionals are held to strict ethical standards to ensure financial planning recommendations are in your best interest. 
+                What’s more, a CFP® professional must acquire several years of experience related to delivering financial planning services 
+                to clients and pass the comprehensive CFP® Certification Exam before they can use the CFP® designation.
+       
+            </li>
+            <li class="serviceList">
+             
+                <a href="http://www.xyplanningnetwork.com/"  style="font-weight: 700; color:#002060" target="_blank">David R. Uhlmann is a Member of the XY Planning Network</a><br>
+                The XY Planning Network is the leading organization of fee-only financial advisors who are focused on working 
+                with Generation X and Generation Y clients. Our mission is to connect consumers with best-in-class financial 
+                advisors who specialize in working with clients just like you.
+           
+            </li>
         </ul>
     </div>
   </div>
-  
   <?php require 'include/javascript/master.php' ?>
   <?php require 'footer.php'; ?>
 

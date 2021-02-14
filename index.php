@@ -117,7 +117,7 @@
 
         
 
-        <div class="col-md-8 content">
+        <div class="col-md-12 content">
           <!---<h2>Lorem ipsum dolor sit amet, consectetur adipiscing elite storium paralate</h2>
           <h3>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
             laborum.</h3>--->
@@ -131,35 +131,62 @@
               <br><br>
               We differentiate ourselves by incorporating:</p>
               <br>
-              <ul class="aboutInfo">
-                <li>
-                    A <b>values-based approach</b> to financial planning.  
+       		  <div class="aboutInfo">
+               	<div class="row">
+		          <div class="col-md-2" style="text-align:center;">
+		            <img src="images/values.jpg">
+		          </div>
+		          <div class="col-md-10" style="margin-top:1%;">
+		            A <b>values-based approach</b> to financial planning.  
                 We will help you define what values and motivations are important to you.  
 				These serve as the foundation for you to make informed financial decisions 
 				that align with your goals and financial resources.  
 				We have found our clients are most successful when they can make that alignment.
-                </li>
-                <li>
-                    <b>Coaching</b>.  It doesn’t end with just a financial plan.  
+		          </div>
+		        </div>
+
+		        <div class="row">
+		          <div class="col-md-2" style="text-align:center;">
+		            <img src="images/coaching.jpg">
+		          </div>
+		          <div class="col-md-10" style="margin-top:2%;">
+		            <b>Coaching</b>.  It doesn’t end with just a financial plan.  
                 As we implement and monitor progress against goals, we will work closely with you, encouraging you to make positive 
 				changes in financial behavior.  We will serve as your accountability partner, consistent with the 
 				collaborative process we advocate.
-                </li>
-                <li>
-                    <b>Fiduciary duty</b>.  We always put our clients’ interests first.  
+		          </div>
+		        </div>
+
+		        <div class="row">
+		          <div class="col-md-2" style="text-align:center;">
+		            <img src="images/duty.jpg">
+		          </div>
+		          <div class="col-md-10" style="margin-top:3%;">
+		            <b>Fiduciary duty</b>.  We always put our clients’ interests first.  
                 Synergos is a fee-only advisor and does not sell any financial products 
                 or receive commissions, referral fees or payments from insurance or investment products.
-                </li>
-                <li>
-                    <b>Technology</b>. We understand you lead a busy life.  So we’ve incorporated tools to facilitate online collaboration and virtual meetings anywhere in the continental U.S.  
+		          </div>
+		        </div>
+
+		        <div class="row">
+		          <div class="col-md-2" style="text-align:center;">
+		            <img src="images/technology.png">
+		          </div>
+		          <div class="col-md-10" style="margin-top:4%;">
+		            <p><b>Technology</b>. We understand you lead a busy life.  So we’ve incorporated tools to facilitate online collaboration and virtual meetings anywhere in the continental U.S.  
 					We want to ensure your time is well spent on the process – not fighting traffic to get to and from appointments although we are always happy to 
-					meet with you in-person, too.
-                </li>
-              </ul>
+					meet with you in-person, too.</p>
+		          </div>
+		        </div>
+                
+             
+                
+                
+                
+             
+                
+             </div>
             
-        </div>
-        <div class="col-md-4 content">
-        	<div class="fb-page" data-href="https://www.facebook.com/synergosadvisoryllc" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/synergosadvisoryllc" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/synergosadvisoryllc">Synergos Advisory LLC</a></blockquote></div>
         </div>
       </div>
       <div class="row">
@@ -329,24 +356,31 @@
     <div class="container">
       <div class="row">
         <div class="col-md-4">
-          <div class="contact-widget wow bounceInLeft">
-            <i class="fa fa-map-marker fa-4x"></i>
-            <h5>Main Office</h5>
-            <p>
-				South Lake Union<br>
-
-				500 Yale Ave. N., Suite 400<br>
-
-				Seattle, WA 98109<br>
-            </p>
-          </div>
-        </div>
-        <div class="col-md-4">
           <div class="contact-widget wow bounceInUp">
             <i class="fa fa-phone fa-4x"></i>
             <h5>Call</h5>
             <p>
              Direct:	206.800.8056
+            </p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="contact-widget wow bounceInLeft">
+            <i class="fa fa-map-marker fa-4x"></i>
+            <h5>Locations<br>Main Office & Mailing Address</h5>
+            <p>
+				<b><u><a href="https://goo.gl/maps/xPzfSA1GS12MVVhU7" target="_blank">South Lake Union</a></u></b><br>
+
+				500 Yale Ave. N., Suite 400<br>
+
+				Seattle, WA 98109<br>
+            </p>
+            <p>
+				<b><u><a href="https://goo.gl/maps/qLPgfCUgQeWuDRkV6" target="_blank">Bellevue</a></u></b><br>
+
+				10400 NE 4th St., Suite 500<br>
+
+				Bellevue, WA 98004<br>
             </p>
           </div>
         </div>
@@ -376,41 +410,17 @@
 		</div>
 	  </div>
 		<div class="row">
-		  <ul style="list-style-type:none;">
-			<li class="">
-				<div class="col-sm-3">
-					<img src="images/napfa-logo.png" width="175" style="padding-bottom:20px;">
-				</div>
-				<div class="col-sm-9 affil" style="text-align:left">
-					<a href="https://www.napfa.org/member/96187/29196" style="font-weight: 700; color:#002060" target="_blank">David R. Uhlmann is a NAPFA-Registered Financial Advisor</a><br>
-					The National Association of Personal Financial Advisors (NAPFA) is a leading professional association of Fee-Only 
-					financial advisors—highly trained professionals who are committed to working in the best interests of those they serve.
-				</div>
-			</li>
-			<li class="">
-				<div class="col-sm-3">
-					<img src="images/cfp-logo.jpg" width="175" style="padding-bottom:20px;">
-				</div>
-				<div class="col-sm-9 affil" style="text-align:left">
-					<a target="_blank" style="font-weight: 700; color:#002060" href="https://www.letsmakeaplan.org/choose-a-cfp-professional/find-a-cfp-professional/Details/?key=0f3b200b-9ff1-4dfd-a07f-9af9b6d33fdb&SimpleSearch=False&Latitude=0&Longitude=0&AreasOfSpecialization=&LastName=Uhlmann&Page=1&Session=28273">
-					David R. Uhlmann is a CERTIFIED FINANCIAL PLANNER&#153; Professional - Click for Verification</a><br>
-					CFP® professionals are held to strict ethical standards to ensure financial planning recommendations are in your best interest. 
-					What’s more, a CFP® professional must acquire several years of experience related to delivering financial planning services 
-					to clients and pass the comprehensive CFP® Certification Exam before they can use the CFP® designation.
-				</div>
-			</li>
-			<li class="">
-				<div class="col-sm-3">
-					<img src="images/xy-logo.jpg" width="175" style="padding-bottom:20px;">
-				</div>
-				<div class="col-sm-9 affil" style="text-align:left">
-					<a href="http://www.xyplanningnetwork.com/"  style="font-weight: 700; color:#002060" target="_blank">David R. Uhlmann is a Member of the XY Planning Network</a><br>
-					The XY Planning Network is the leading organization of fee-only financial advisors who are focused on working 
-					with Generation X and Generation Y clients. Our mission is to connect consumers with best-in-class financial 
-					advisors who specialize in working with clients just like you.
-				</div>
-			</li>
-		  </ul>
+			<div class="col-sm-4">
+				<a href="https://www.napfa.org/member/96187/29196" target="_blank"><img src="images/napfa-logo.png" width="175" style="padding-bottom:20px;"></a>
+			</div>
+
+			<div class="col-sm-4">
+				<a href="https://www.letsmakeaplan.org/choose-a-cfp-professional/find-a-cfp-professional/Details/?key=0f3b200b-9ff1-4dfd-a07f-9af9b6d33fdb&SimpleSearch=False&Latitude=0&Longitude=0&AreasOfSpecialization=&LastName=Uhlmann&Page=1&Session=28273" target="_blank"><img src="images/cfp-logo.jpg" width="175" style="padding-bottom:20px;"></a>
+			</div>
+
+			<div class="col-sm-4">
+				<a href="https://www.xyplanningnetwork.com/advisors/david-uhlmann-cfp-msf/" target="_blank"><img src="images/xy-logo.jpg" width="175" style="padding-bottom:20px;"></a>
+			</div>
 		</div>
       </div>
 
