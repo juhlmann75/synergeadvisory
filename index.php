@@ -134,7 +134,7 @@
        		  <div class="aboutInfo">
                	<div class="row">
 		          <div class="col-md-2" style="text-align:center;">
-		            <img src="images/values.jpg">
+		            <img src="images/values.jpg" width="100">
 		          </div>
 		          <div class="col-md-10" style="margin-top:1%;">
 		            A <b>values-based approach</b> to financial planning.  
@@ -147,9 +147,9 @@
 
 		        <div class="row">
 		          <div class="col-md-2" style="text-align:center;">
-		            <img src="images/coaching.jpg">
+		            <img src="images/coaching.jpg" width="100">
 		          </div>
-		          <div class="col-md-10" style="margin-top:2%;">
+		          <div class="col-md-10" style="margin-top:1%;">
 		            <b>Coaching</b>.  It doesn’t end with just a financial plan.  
                 As we implement and monitor progress against goals, we will work closely with you, encouraging you to make positive 
 				changes in financial behavior.  We will serve as your accountability partner, consistent with the 
@@ -159,9 +159,9 @@
 
 		        <div class="row">
 		          <div class="col-md-2" style="text-align:center;">
-		            <img src="images/duty.jpg">
+		            <img src="images/duty.jpg" width="100">
 		          </div>
-		          <div class="col-md-10" style="margin-top:3%;">
+		          <div class="col-md-10" style="margin-top:2%;">
 		            <b>Fiduciary duty</b>.  We always put our clients’ interests first.  
                 Synergos is a fee-only advisor and does not sell any financial products 
                 or receive commissions, referral fees or payments from insurance or investment products.
@@ -170,9 +170,9 @@
 
 		        <div class="row">
 		          <div class="col-md-2" style="text-align:center;">
-		            <img src="images/technology.png">
+		            <img src="images/technology.png" width="100">
 		          </div>
-		          <div class="col-md-10" style="margin-top:4%;">
+		          <div class="col-md-10" style="margin-top:1%;">
 		            <p><b>Technology</b>. We understand you lead a busy life.  So we’ve incorporated tools to facilitate online collaboration and virtual meetings anywhere in the continental U.S.  
 					We want to ensure your time is well spent on the process – not fighting traffic to get to and from appointments although we are always happy to 
 					meet with you in-person, too.</p>
@@ -367,7 +367,7 @@
         <div class="col-md-4">
           <div class="contact-widget wow bounceInLeft">
             <i class="fa fa-map-marker fa-4x"></i>
-            <h5>Locations<br>Main Office & Mailing Address</h5>
+            <h5>Locations</h5>
             <p>
 				<b><u><a href="https://goo.gl/maps/xPzfSA1GS12MVVhU7" target="_blank">South Lake Union</a></u></b><br>
 
@@ -404,24 +404,47 @@
       <div class="row">
         <div class="col-md-offset-2 col-md-8">
           <div class="section-heading">
-            <h3>Professional Designations & Affiliations</h3>
+            <h3>Affiliations</h3>
             <div class="heading-line"></div>
           </div>
 		</div>
 	  </div>
 		<div class="row">
-			<div class="col-sm-4">
+			<div class="col-md-3">
 				<a href="https://www.napfa.org/member/96187/29196" target="_blank"><img src="images/napfa-logo.png" width="175" style="padding-bottom:20px;"></a>
 			</div>
 
-			<div class="col-sm-4">
+			<div class="col-md-3">
 				<a href="https://www.letsmakeaplan.org/choose-a-cfp-professional/find-a-cfp-professional/Details/?key=0f3b200b-9ff1-4dfd-a07f-9af9b6d33fdb&SimpleSearch=False&Latitude=0&Longitude=0&AreasOfSpecialization=&LastName=Uhlmann&Page=1&Session=28273" target="_blank"><img src="images/cfp-logo.jpg" width="175" style="padding-bottom:20px;"></a>
 			</div>
 
-			<div class="col-sm-4">
-				<a href="https://www.xyplanningnetwork.com/advisors/david-uhlmann-cfp-msf/" target="_blank"><img src="images/xy-logo.jpg" width="175" style="padding-bottom:20px;"></a>
+			<div class="col-md-3">
+				<a href="https://www.xyplanningnetwork.com/advisors/david-uhlmann-cfp-msf/" target="_blank"><img src="images/xyplanning.png" width="300" style="padding-bottom:20px;"></a>
 			</div>
+			<div class="col-md-3">
+				<a href="https://info.xyplanningnetwork.com/xy-tax-solutions" target="_blank"><img src="images/xytax.jpg" width="175" style="padding-bottom:20px;"></a>
+			</div>
+			
 		</div>
+		<div class="row">
+			<div class="col-md-3">
+				<a href="https://www.betterment.com/advisors/ " target="_blank"><img src="images/betterment.jpg" width="200" style="padding-bottom:20px;"></a>
+			</div>
+
+			<div class="col-md-3">
+				<a href="https://www.tdainstitutional.com/" target="_blank"><img src="images/tdameritrade.png" width="250" style="padding-bottom:20px;"></a>
+			</div>
+
+			<div class="col-md-3">
+				
+				<a href="https://www.xyplanningnetwork.com/advisors/david-uhlmann-cfp-msf/" target="_blank"><img src="images/fee.jpg" width="200" style="padding-bottom:20px;"></a>
+			</div>
+			<div class="col-md-3">
+				<a href="www.OneFPA.org" target="_blank"><img src="images/FPA_logo_1024x1024.png" width="175" style="padding-bottom:20px;"></a>
+			</div>
+			
+		</div>
+			
       </div>
 
      </div>

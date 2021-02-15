@@ -94,18 +94,21 @@
           <li class="navlink"><a href="/">Home</a></li>
           <li class="navlink"><a href="/index.php#services">Services</a></li>
           <li class="navlink"><a href="/investment.php">Investments</a></li>
-          <li class="navlink"><a href="/blogs.php">Blog</a></li>
-		  <li class="navlink"><a href="/videos.php">Videos</a></li>
+          
+		  
+		  <li class="navlink dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Learning <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li class="navlink"><a href="/blogs.php">Blog</a></li>
+              <li role="separator" class="divider"></li>
+              <li class="navlink"><a href="/videos.php">Videos</a></li>
+            </ul>
+          </li>
 		  <li class="navlink dropdown dropdown-large">
 				<a href="#" style="background-color: transparent;" class="dropdown-toggle" data-toggle="dropdown">Insights & Tools<b class="caret"></b></a>
 				
 				<ul class="dropdown-menu dropdown-menu-large row">
-					<!---<ul style="float:right;list-style:none;">
-						<li>Wealth Building Potential Assessment</li>
-						<li>Career Fit Assessment</li>
-						<li>Investor Composure Assessment</li>
-						<li>Financial Planning Habits Assessment</li>
-					</ul>--->
+			
 					
 					<li class="col-sm-4">
 						<ul class="navDrop">
@@ -140,6 +143,16 @@
 			</li>
 			<li class="navlink"><a href="/david-uhlmann.php">About</a></li>
 			<li class="navlink"><a href="/index.php#contact">Contact</a></li>
+			<li class="navlink dropdown">
+	            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Portal <span class="caret"></span></a>
+	            <ul class="dropdown-menu">
+	              <li class="navlink"><a href="https://www.rightcapital.com/login?cobrand=Bk2t09O2NLeM47NJBweHXA&type=client" target="_blank">RightCapital</a></li>
+	              <li role="separator" class="divider"></li>
+	              <li class="navlink"><a href="https://wwws.betterment.com/app/login" target="_blank">Betterment</a></li>
+	              <li role="separator" class="divider"></li>
+	              <li class="navlink"><a href="https://www.advisorclient.com/login" target="_blank">TDAmeritrade</a></li>
+	            </ul>
+	         </li>
         </ul>
       </div>
     </div>
