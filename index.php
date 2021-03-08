@@ -422,7 +422,7 @@
 				<a href="https://www.xyplanningnetwork.com/advisors/david-uhlmann-cfp-msf/" target="_blank"><img src="images/xyplanning.png" width="300" style="padding-bottom:20px;"></a>
 			</div>
 			<div class="col-md-3">
-				<a href="https://info.xyplanningnetwork.com/xy-tax-solutions" target="_blank"><img src="images/xytax.jpg" width="175" style="padding-bottom:20px;"></a>
+				<a href="https://info.xyplanningnetwork.com/xy-tax-solutions" target="_blank"><img src="images/xytax.png" width="175" style="padding-bottom:20px;"></a>
 			</div>
 			
 		</div>
