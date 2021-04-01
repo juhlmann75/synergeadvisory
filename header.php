@@ -146,11 +146,11 @@
 			<li class="navlink dropdown">
 	            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Portal <span class="caret"></span></a>
 	            <ul class="dropdown-menu">
-	              <li class="navlink"><a href="https://www.rightcapital.com/login?cobrand=Bk2t09O2NLeM47NJBweHXA&type=client" target="_blank">RightCapital</a></li>
+	              <li class="navlink" style="text-transform: none;"><a href="https://www.rightcapital.com/login?cobrand=Bk2t09O2NLeM47NJBweHXA&type=client" target="_blank" style="padding-left:5px;"><img src="images/rclogo.png" width="50" /> RightCapital</a></li>
 	              <li role="separator" class="divider"></li>
-	              <li class="navlink"><a href="https://wwws.betterment.com/app/login" target="_blank">Betterment</a></li>
+	              <li class="navlink" style="text-transform: none;"><a href="https://wwws.betterment.com/app/login" target="_blank" style="padding-left:5px;"><img src="images/bettermentlogo.jpeg" width="50"/> Betterment</a></li>
 	              <li role="separator" class="divider"></li>
-	              <li class="navlink"><a href="https://www.advisorclient.com/login" target="_blank">TDAmeritrade</a></li>
+	              <li class="navlink" style="text-transform: none;"><a href="https://www.advisorclient.com/login" target="_blank" style="padding-left:5px;"><img src="images/tdlogo.png" width="50"/> TDAmeritrade</a></li>
 	            </ul>
 	         </li>
         </ul>
