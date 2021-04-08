@@ -29,7 +29,7 @@
     			<li class="serviceList">CFP® CERTIFIED FINANCIAL PLANNER &#153; Practitioner</li>
                 <li class="serviceList">AAMS® Accredited Asset Management Specialist&#8480;</li>
                 <li class="serviceList">APMA® Accredited Portfolio Management Advisor&#8480;</li>
-                <li class="serviceList">BFA&#153;   Behavioral Financial Advisor</li>
+                <!-- <li class="serviceList">BFA&#153;   Behavioral Financial Advisor</li> -->
                 <li class="serviceList">Series 66 – Uniform Combined State Law</li>
             </ul>
         </div>
