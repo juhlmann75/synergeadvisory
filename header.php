@@ -17,6 +17,7 @@
   <title><?php echo $title; ?></title>
   <meta charset="utf-8" />
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+  <meta name="keywords" content="401k after tax contributions, after tax 401k,after tax 401k contribution,after tax 401k limit,amazon restricted stock units,amazon RSUs,biotech stock options,define financial,espp plan,financial advisor redmond wa,financial advisor seattle,financial consultant seattle,financial planner bellingham wa,financial planner seattle,microsoft 401k,Microsoft RSUs,restricted stock sell to cover,restricted stock units vs. stock options,rsu sell to cover,rsu vs. options,rsu vs. stock options,seattle investment advisor,stock options 101,tech company stock options,tech stock options,wealth management seattle">
   <meta name="description" content="&quot;From my very first day as an entrepreneur, I've felt the only mission worth pursuing in business is to make people's lives better.&quot; - Richard Branson 
   If you're reading this, I'm sure you can relate...">
   <!-- css -->

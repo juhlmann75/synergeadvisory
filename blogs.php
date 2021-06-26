@@ -51,136 +51,118 @@ body {
 </div>
 <hr>
 	<div class="ui four stackable cards">
+		<div class="card">
+		  <div class="image" onclick="openInNewTab('https://financeinsights.net/d6pUJqvOFdJOg');">
+			<img src="/images/blog/authentic_blog.jpg">
+		  </div>
+		  <div class="content">
+			<a class="header" href="https://financeinsights.net/d6pUJqvOFdJOg" target="_blank">Setting Authentic Goals in Uncertain Times</a>
+		  </div>
+	  </div>
 	  <div class="card">
-		  <div class="image" onclick="openInNewTab('https://financeinsights.net/N4ZTKA2Sb1vVtpEb6U6gGl');">
+		  <div class="image" onclick="openInNewTab('https://financeinsights.net/QgdCpw2KF8lvG');">
+			<img src="/images/blog/crypto_blog.jpg">
+		  </div>
+		  <div class="content">
+			<a class="header" href="https://financeinsights.net/QgdCpw2KF8lvG" target="_blank">Cryptocurrency Explained: Fool’s Gold or Actually the Real Deal?</a>
+		  </div>
+	  </div>
+	  <div class="card">
+		  <div class="image" onclick="openInNewTab('https://financeinsights.net/AK3t4J3LF83Ke');">
+			<img src="/images/blog/travel_blog.jpg">
+		  </div>
+		  <div class="content">
+			<a class="header" href="https://financeinsights.net/AK3t4J3LF83Ke" target="_blank">Post-Pandemic Travel Planning: How to Make Safe Choices & Still Have Fun</a>
+		  </div>
+	  </div>
+	  <div class="card">
+		  <div class="image" onclick="openInNewTab('https://financeinsights.net/p6QUM2vgIA1JL');">
+			<img src="/images/blog/one_milli_blog.jpg">
+		  </div>
+		  <div class="content">
+			<a class="header" href="https://financeinsights.net/p6QUM2vgIA1JL" target="_blank">How Far Could $1 Million Go in Retirement?</a>
+		  </div>
+	  </div>
+	  <div class="card">
+		  <div class="image" onclick="openInNewTab('https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/6nKAlYdvPL.pdf');">
+			<img src="/images/blog/volatile_blog.jpg">
+		  </div>
+		  <div class="content">
+			<a class="header" href="https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/6nKAlYdvPL.pdf" target="_blank">Investing in Volatile Markets</a>
+		  </div>
+	  </div>
+	  <div class="card">
+		  <div class="image" onclick="openInNewTab('https://financeinsights.net/41YiKx4vSP23J');">
 			<img src="/images/blog/image12.jpg">
 		  </div>
 		  <div class="content">
-			<a class="header" href="https://financeinsights.net/N4ZTKA2Sb1vVtpEb6U6gGl" target="_blank">Why It's a Mistake to Worry About Market Corrections</a>
+			<a class="header" href="https://financeinsights.net/41YiKx4vSP23J" target="_blank">Why It's a Mistake to Worry About Market Corrections</a>
 		  </div>
 	  </div>
 	  <div class="card">
-		  <div class="image" onclick="openInNewTab('https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/YVnYdd0VX0.pdf');">
+		  <div class="image" onclick="openInNewTab('https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/9XVdxzBQmN.pdf');">
 			<img src="/images/blog/401K Rollover.png">
 		  </div>
 		  <div class="content">
-			<a class="header" href="https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/YVnYdd0VX0.pdf" target="_blank">What Should I Do With My Old 401(k) or Employer Plan?</a>
+			<a class="header" href="https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/9XVdxzBQmN.pdf" target="_blank">What Should I Do With My Old 401(k) or Employer Plan?</a>
 		  </div>
 	  </div>
 	  <div class="card">
-		  <div class="image" onclick="openInNewTab('https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/pvXGprRdnr.pdf');">
+		  <div class="image" onclick="openInNewTab('https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/ynxW68e1Xa.pdf');">
 			<img src="/images/blog/Investor Recovery.png">
 		  </div>
 		  <div class="content">
-			<a class="header" href="https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/pvXGprRdnr.pdf" target="_blank">Investor Recovery Report: What Does The Future Hold?</a>
+			<a class="header" href="https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/ynxW68e1Xa.pdf" target="_blank">Investor Recovery Report: What Does The Future Hold?</a>
 		  </div>
 	  </div>
 	  <div class="card">
-		  <div class="image" onclick="openInNewTab('https://financeinsights.net/1vQSaKEF4qr6ub310iEnvv');">
+		  <div class="image" onclick="openInNewTab('https://financeinsights.net/p6QUM2LxtAgr3');">
 			<img src="/images/blog/Smarter Investor.png">
 		  </div>
 		  <div class="content">
-			<a class="header" href="https://financeinsights.net/1vQSaKEF4qr6ub310iEnvvG" target="_blank">How to Be a Smarter Investor in Uncertain Times</a>
+			<a class="header" href="https://financeinsights.net/p6QUM2LxtAgr3" target="_blank">How to Be a Smarter Investor in Uncertain Times</a>
 		  </div>
 	  </div>
 	  <div class="card">
-		  <div class="image" onclick="openInNewTab('https://financeinsights.net/3LgiLm0c8Gw5ir5OxTmwxE');">
+		  <div class="image" onclick="openInNewTab('https://financeinsights.net/AK3t4Qkdi8LBD');">
 			<img src="/images/blog/Hidden Power.png">
 		  </div>
 		  <div class="content">
-			<a class="header" href="https://financeinsights.net/3LgiLm0c8Gw5ir5OxTmwxE" target="_blank">Unlock the Hidden Power of Your Goals</a>
+			<a class="header" href="https://financeinsights.net/AK3t4Qkdi8LBD" target="_blank">Unlock the Hidden Power of Your Goals</a>
 		  </div>
 	  </div>
 		<div class="card">
-		  <div class="image" onclick="openInNewTab('https://financeinsights.net/0wgtj2jCYvnYuqpAZcNNzZ');">
+		  <div class="image" onclick="openInNewTab('https://financeinsights.net/w6QUzqYPtzKQL');">
 			<img src="https://snappykraken-assets.s3.amazonaws.com/vin/2020/03/assets/img/bg_hero.gif">
 		  </div>
 		  <div class="content">
-			<a class="header" href="https://financeinsights.net/0wgtj2jCYvnYuqpAZcNNzZ" target="_blank">How Sustainable Investing Is Changing People, Business & The World</a>
+			<a class="header" href="https://financeinsights.net/w6QUzqYPtzKQL" target="_blank">How Sustainable Investing Is Changing People, Business & The World</a>
 		  </div>
 	  </div>
 	  <div class="card">
-		  <div class="image" onclick="openInNewTab('/files/blog/ESG.pdf');">
-			<img src="/images/blog/image10.jpg">
-		  </div>
-		  <div class="content">
-			<a class="header" href="/files/blog/ESG.pdf" target="_blank">Invest with Purpose</a>
-		  </div>
-	  </div>
-	  <div class="card">
-		  <div class="image" onclick="openInNewTab('/files/blog/20200110 SECURE Act Blog.pdf');">
-			<img src="/images/blog/image9.jpg">
-		  </div>
-		  <div class="content">
-			<a class="header" href="/files/blog/20200110 SECURE Act Blog.pdf" target="_blank">SECURE Act: What You Need to Know</a>
-		  </div>
-		 </a>
-	  </div>
-	  <div class="card">
-		  <div class="image" onclick="openInNewTab('/files/blog/Fiduciary.pdf');">
-			<img src="/images/blog/image1.jpg">
-		  </div>
-		  <div class="content">
-			<a class="header" href="/files/blog/Fiduciary.pdf" target="_blank">What 401(k) Plan Sponsors Need to Know</a>
-		  </div>
-		 </a>
-	  </div>
-	  <div class="card">
-		  <div class="image" onclick="openInNewTab('https://financeinsights.net/N4ZTvrDHOmQrH5xm5HvMjd');">
+		  <div class="image" onclick="openInNewTab('https://financeinsights.net/MEZCkz2gu4YDE');">
 			<img src="/images/blog/image7.jpg">
 		  </div>
 		  <div class="content">
-			<a class="header" href="https://financeinsights.net/N4ZTvrDHOmQrH5xm5HvMjd" target="_blank">How to Live a Rich Life</a>
+			<a class="header" href="https://financeinsights.net/MEZCkz2gu4YDE" target="_blank">How to Live a Rich Life</a>
 		  </div>
 		 </a>
 	  </div>
 	  <div class="card">
-		  <div class="image" onclick="openInNewTab('https://financeinsights.net/ZBPfxQginPZ5Tvmq3Cd8vM');">
+		  <div class="image" onclick="openInNewTab('https://financeinsights.net/m6QUkE0Zh1eg3');">
 			<img src="/images/blog/image8.png">
 		  </div>
 		  <div class="content">
-			<a class="header" href="https://financeinsights.net/ZBPfxQginPZ5Tvmq3Cd8vM" target="_blank">Make the Greatest Impact with Charitable Giving</a>
+			<a class="header" href="https://financeinsights.net/m6QUkE0Zh1eg3" target="_blank">Make the Greatest Impact with Charitable Giving</a>
 		  </div>
 		 </a>
 	  </div>
 	  <div class="card">
-		  <div class="image" onclick="openInNewTab('https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/KJmlY010PE.pdf');">
-			<img src="/images/blog/image3.png">
-		  </div>
-		  <div class="content">
-			<a class="header" href="https://s3.amazonaws.com/snappykraken/vessels/LVqoRpZJBr/pdf/KJmlY010PE.pdf" target="_blank">6 "Hidden" Tax Saving Opportunities</a>
-		  </div>
-	  </div>
-	  <div class="card">
-		  <div class="image" onclick="openInNewTab('https://financeinsights.net/6B6fM5DC06ODhOGZ1CnY1n');">
-			<img src="/images/blog/image4.png">
-		  </div>
-		  <div class="content">
-			<a class="header" href="https://financeinsights.net/6B6fM5DC06ODhOGZ1CnY1n" target="_blank">How to Financially Survive the Holidays</a>
-		  </div>
-	  </div>
-	  <div class="card">
-		  <div class="image" onclick="openInNewTab('/files/blog/Hindsight Is 2020 Foresight Isnt.pdf');">
-			<img src="/images/blog/image5.PNG">
-		  </div>
-		  <div class="content">
-			<a class="header" href="/files/blog/Hindsight Is 2020 Foresight Isnt.pdf" target="_blank">Hindsight Is 20/20. Foresight Isn't</a>
-		  </div>
-	  </div>
-	  <div class="card">
-		  <div class="image" onclick="openInNewTab('/files/blog/10 Ways Investments and Markets Have Evolved.pdf');">
-			<img src="/images/blog/image6.PNG">
-		  </div>
-		  <div class="content">
-			<a class="header" href="/files/blog/10 Ways Investments and Markets Have Evolved.pdf" target="_blank">10 Ways Investments and Markets Have Evolved</a>
-		  </div>
-	  </div>
-	  <div class="card">
-		  <div class="image" onclick="openInNewTab('https://lnkd.in/gUnJMrG');">
+		  <div class="image" onclick="openInNewTab('https://financeinsights.net/Gm8ixN5ECl2zv');">
 			<img src="/images/blog/image11.jpeg">
 		  </div>
 		  <div class="content">
-			<a class="header" href="https://lnkd.in/gUnJMrG" target="_blank">Bare Facts about Bear Markets</a>
+			<a class="header" href="https://financeinsights.net/Gm8ixN5ECl2zv" target="_blank">Bare Facts about Bear Markets</a>
 		  </div>
 	  </div>
 	</div>
