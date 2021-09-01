@@ -268,7 +268,7 @@
       </div>
     </div>
 	<br>
-	<a href="/Fees.php" class="btn-schedule animated" style="color:#002060;font-weight:bold;">Fees</a>
+	<a href="/fees.php" class="btn-schedule animated" style="color:#002060;font-weight:bold;">Fees</a>
   </section>
 
   
