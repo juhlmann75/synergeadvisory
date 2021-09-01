@@ -55,7 +55,7 @@
 
 	@media (min-width: 810px) {
 		.myNav.container {
-			width: 1200px !important;
+			width: 1500px !important;
 		}
 		.underNavImg {
 			height:130px;
@@ -105,7 +105,8 @@
               <li class="navlink"><a href="/videos.php">Videos</a></li>
             </ul>
           </li>
-		  <li class="navlink dropdown dropdown-large">
+          <li class="navlink"><a href="/fees.php">Fees</a></li>
+		  <!---<li class="navlink dropdown dropdown-large">
 				<a href="#" style="background-color: transparent;" class="dropdown-toggle" data-toggle="dropdown">Insights & Tools<b class="caret"></b></a>
 				
 				<ul class="dropdown-menu dropdown-menu-large row">
@@ -141,7 +142,7 @@
 					</li>
 				</ul>
 				
-			</li>
+			</li>--->
 			<li class="navlink"><a href="/david-uhlmann.php">About</a></li>
 			<li class="navlink"><a href="/index.php#contact">Contact</a></li>
 			<li class="navlink dropdown">
@@ -154,6 +155,9 @@
 	              <li class="navlink" style="text-transform: none;"><a href="https://www.advisorclient.com/login" target="_blank" style="padding-left:5px;"><img src="images/tdlogo.png" width="50"/> TDAmeritrade</a></li>
 	            </ul>
 	         </li>
+	         <li class="navlink"><a href="https://www.facebook.com/synergosadvisoryllc" target="_blank"><img src="images/facebooklogo.jpeg" width="25" /></a></li>
+	         <li class="navlink"><a href="https://www.linkedin.com/company/synergos-advisory/" target="_blank"><img src="images/linkedinlogo.jpeg" width="25" /></a></li>
+	         <li class="navlink"><a href="/consultation.php"><img src="images/consultaionlogo.jpeg" width="25" /></a></li>
         </ul>
       </div>
     </div>

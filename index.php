@@ -228,47 +228,47 @@
           </div>
         </div>
       </div>
+      <div class="col-md-12 content">
+          <p style="font-size:14pt;">
+              Flat-fee, Comprehensive Financial Planning for STEM Entrepreneurs and Professionals  
+              <br><br>
+              When we work together to provide you with financial planning and investment management services, we can simplify your financial life
+              so you can focus on what you do best.
+              <br><br>
+              Our services include:<br></p>
+            </div>
       <div class="row">
-        <div class="col-md-4">
-          <h4>Financial Coaching</h4>
-            <ul>
-                <li class="serviceList">Aligning your values, goals and resources to make quality financial decisions</li>
-                <li class="serviceList">Uncovering and resolving hidden cognitive biases preventing you from establishing healthy financial habits</li>
-                <li class="serviceList">Nonjudgmental accountability and encouragement as you implement changes and stay on track with your plan</li>
-            </ul>
-        </div>
-        <div class="col-md-4">
+        <div class="col-md-6">
           <h4>Financial Planning</h4>
-           <ul>
+           <ul style="display:inline-block;">
                <li class="serviceList">Income and Expense Projections</li>
                <li class="serviceList">Budgeting</li>
-               <li class="serviceList">Cash Flow Management Strategies</li>
-               <li class="serviceList">Financing and SBA Strategies</li>
-               <li class="serviceList">Tax Planning Strategies</li>
+               <li class="serviceList">Insurance Reviews</li>
+               <li class="serviceList">Tax Planning</li>
+               <li class="serviceList">Tax Preparation</li>
                <li class="serviceList">Retirement Planning</li>
-               <li class="serviceList">Deferred Compensation Strategies</li>
-               <li class="serviceList">Risk Management Strategies</li>
-               <li class="serviceList">Estate Planning Strategies</li>
                <li class="serviceList">NSO, ISO, ESPP, RS/RSU Planning</li>
+               <li class="serviceList">Estate Planning Strategies</li>
             </ul>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-6">
           <h4>Wealth Management</h4>
-           <ul>
+           <ul style="display:inline-block;">
                <li class="serviceList">Portfolio Construction</li>
                <li class="serviceList">Asset Allocation</li>
                <li class="serviceList">Active/Passive Strategies</li>
                <li class="serviceList">Wealth Preservation Strategies</li>
-               <li class="serviceList">Tax Efficient Portfolios </li>
+               <li class="serviceList">Tax Efficient Portfolios</li>
                <li class="serviceList">Income Strategies</li>
-               <li class="serviceList">Environmental-Social-Governance (ESG) Solutions</li>
-			   <li class="serviceList">401(k), SIMPLE & SEP IRAs, Defined Benefit and Cash Balance Plans</li>
+               <li class="serviceList">Environmental-Social-Governance<br>(ESG) Solutions</li>
+			         <li class="serviceList">401(k), SIMPLE & SEP IRAs, <br>Defined Benefit and Cash Balance Plans</li>
+               <li class="serviceList">Roth IRA Conversion and Mega<br>Backdoor Roth 401(k) Strategies</li>
             </ul>
         </div>
       </div>
     </div>
 	<br>
-	<a href="/services.php" class="btn-schedule animated" style="color:#002060;font-weight:bold;">Build Your Plan</a>
+	<a href="/Fees.php" class="btn-schedule animated" style="color:#002060;font-weight:bold;">Fees</a>
   </section>
 
   
