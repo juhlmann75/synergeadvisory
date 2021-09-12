@@ -53,8 +53,10 @@
         </div>
       </div>
 
-	<p><b>Total Flat Fee</b>: $250 to $400 per month<br><br>
+	<p><b>Total Flat Fee</b>: $250 to $500 per month<br><br>
 	Fees include investment management</p>
+
+	<a href="/consultation.php" class="btn-schedule animated" style="color:#002060;font-weight:bold;">Schedule Complimentary Consultation</a>
 </div>
 <?php require 'include/javascript/master.php' ?>
 <?php require 'footer.php'; ?>
