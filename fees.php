@@ -47,7 +47,7 @@
          	</div>
         	<div style="background-image: linear-gradient(#467AA8, #4E89BF);padding-top:5px;padding-bottom: 10px;color:white;">
          	<u>Estate Planning</u>*<br>
-         		<span style="font-size:10px;margin: 5px;line-height: normal;margin-bottom: 5px;">Includes will, trust, power of attorney and advance health care directive</span><br><br>
+         		<span style="font-size:10px;margin: 5px;line-height: normal;margin-bottom: 5px;">Includes will, trust, power of attorney and<br> advance health care directive</span><br><br>
          		$100 per month
          	</div>
         </div>
