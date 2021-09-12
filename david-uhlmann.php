@@ -15,7 +15,7 @@
         <p>"From my very first day as an entrepreneur, I've felt the only mission worth pursuing in business is to make people's lives better."      -   Richard Branson</p>
          <p>If you're reading this, I'm sure you can relate...as this is our why.  Having over the years participated in a range of business activities, from tech start-ups to founding and selling my own businesses, I know what it's like to experience the ride with its ups and downs.  And the satisfaction of having a positive impact as well as to be rewarded for that.</p>
           <p>I enjoy working with people, numbers and technology.  Being a financial planner allows me the pleasure of working with all three. As a financial planner over the past 12 years, I have leveraged my diverse experiences and coupled those with my background in finance to help a number of entrepreneurs, business owners, executives, and technologists achieve the quality of life they aspired to.</p>
-          <p>Allow me to do the same for you. <a href="https://calendly.com/synergosadvice" target="_blank">Schedule a complimentary consultation</a>.</p>
+          <p>Allow me to do the same for you. <a href="/consultation.php">Schedule a complimentary consultation</a>.</p>
       </div>
     </div>
     <!-- /.row -->

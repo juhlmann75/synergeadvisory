@@ -15,7 +15,7 @@
 
       <div class="row" style="margin-bottom:50px;margin-top:100px;">
         <div class="col-md-2">
-         <div style="background-image: linear-gradient(#3566ce, #6C8DC8);margin-top:52px;color:white;padding-top:20px;padding-bottom: 20px;">
+         <div style="background-image: linear-gradient(#3566ce, #6C8DC8);margin-top:52px;color:white;padding-top:20px;padding-bottom: 42px;">
          	<u>Base Planning Fee</u><br><br>
          	$250 per month
          </div>
@@ -25,7 +25,7 @@
         	<div style="background-image: linear-gradient(#CB6621, #E78D50);color:black;margin-bottom: 10px;padding-top:10px;padding-bottom: 10px;">
          		<b>Add On Option</b>
          	</div>
-        	<div style="background-image: linear-gradient(#CB6621, #E78D50);padding-top:20px;padding-bottom: 20px;color:white;">
+        	<div style="background-image: linear-gradient(#CB6621, #E78D50);padding-top:20px;padding-bottom: 42px;color:white;">
          	<u>Tax Planning with CPA</u><br><br>
          		$75 per month
          	</div>
@@ -35,7 +35,7 @@
         	<div style="background-image: linear-gradient(#808080, #B2B2B2);color:black;margin-bottom: 10px;padding-top:10px;padding-bottom: 10px;">
          		<b>Add On Option</b>
          	</div>
-        	<div style="background-image: linear-gradient(#808080, #B2B2B2);padding-top:20px;padding-bottom: 20px;color:white;">
+        	<div style="background-image: linear-gradient(#808080, #B2B2B2);padding-top:20px;padding-bottom: 42px;color:white;">
          	<u>Tax Preparation by CPA</u><br><br>
          		$75 per month
          	</div>
@@ -45,9 +45,10 @@
         	<div style="background-image: linear-gradient(#467AA8, #4E89BF);color:black;margin-bottom: 10px;padding-top:10px;padding-bottom: 10px;">
          		<b>Add On Option</b>
          	</div>
-        	<div style="background-image: linear-gradient(#467AA8, #4E89BF);padding-top:20px;padding-bottom: 20px;color:white;">
+        	<div style="background-image: linear-gradient(#467AA8, #4E89BF);padding-top:5px;padding-bottom: 10px;color:white;">
          	<u>Estate Planning</u>*<br>
-         		<span style="font-size:12px;margin: 10px;">Includes will, trust, power of attorney and advance health care directive</span>
+         		<span style="font-size:10px;margin: 5px;line-height: normal;margin-bottom: 5px;">Includes will, trust, power of attorney and advance health care directive</span><br><br>
+         		$100 per month
          	</div>
         </div>
       </div>

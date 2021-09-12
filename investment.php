@@ -200,7 +200,7 @@
     <footer class="footer">
       <div class="container">
         <div class="row" style="padding-top:25px;">
-          <div class="col-lg-12" style="text-align: center;margin-top:-40px;"><a href="https://calendly.com/synergosadvice" target="_blank" class="btn btn-primary" style="background-color: white;color:#002060;font-size: 25px;font-weight: bold;text-transform: none;">Schedule Complimentary Consultation</a></div>
+          <div class="col-lg-12" style="text-align: center;margin-top:-40px;"><a href="/consultation.php" class="btn btn-primary" style="background-color: white;color:#002060;font-size: 25px;font-weight: bold;text-transform: none;">Schedule Complimentary Consultation</a></div>
         </div>
       </div>
     </footer>

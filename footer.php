@@ -21,11 +21,12 @@ Synergos Advisory LLC is not liable for any direct or indirect technical or syst
 When you access one of these web sites, you are leaving our web site and assume total responsibility and risk for use of the web sites you are visiting.
 
 Synergos Advisory LLC does not make any representations or warranties as to the accuracy, timeliness, suitability, completeness, or relevance of any information prepared by any unaffiliated third party, whether linked to Synergos Advisory LLC’s web site or incorporated herein, and takes no responsibility thereof.
-			</p>
+			</p><p>*Depending on the client needs and desires for estate planning document review, preparation, or updates, Synergos Advisory LLC (“Synergos”) will engage with Helios Integrated Planning, a third-party scrivener service, or estate planning attorneys. Synergos does not provide legal advice.</p>
             <ul>
                 <li><a href="files/Privacy_Policy.pdf" target="_blank">Privacy Policy & Disclaimer</a></li>
                 <li><a href="files/ADV_Part_2A_2B.pdf" target="_blank">Form ADV Part 2A</a></li>
             </ul>
+            
             <span style="float:right" id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=oT9MYY6AC4YK2fMliNjQIwTmcc8wSBBiuQsnId9kqsWzBOhUuNJxEY1RGvpV"></script></span>
             <center>Synergos Advisory LLC Copyright &copy; <?php echo date("Y");?></center>
         </div>

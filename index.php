@@ -14,7 +14,7 @@
                 <h2 class="animated fadeInDown" style="margin-top:50%;">Welcome to<br>Synergos Advisory</h2>
                 <p class="animated fadeInUp" style="font-size: 14pt; font-weight:bold;width:100%;">A Collaborative<br>Financial Planning & Wealth Management<br>Practice</p>
                 <a href="#about" class="btn-get-started animated fadeInUp readmore" style="font-weight:bold;">Learn More</a><br>
-                <a href="https://calendly.com/synergosadvice" class="btn-schedule animated fadeInUp" target="_blank" style="font-weight:bold;margin-bottom:40%;">Schedule Complimentary Consultation</a><br>
+                <a href="/consultation.php" class="btn-schedule animated fadeInUp" style="font-weight:bold;margin-bottom:40%;">Schedule Complimentary Consultation</a><br>
                  <span style="color:white;font-weight:bold;font-size:30px"><!---&#11167;---></span>
               </div>
             </div>
@@ -30,7 +30,7 @@
                     As a STEM professional, all your time and energy are spent on bringing good things to life...
                   </h3></center>
                 <p class="animated fadeInUp"></p>
-                <a href="https://calendly.com/synergosadvice" class="btn-schedule animated fadeInUp" target="_blank" style="font-weight:bold;">Schedule Complimentary Consultation</a><br>
+                <a href="/consultation.php" class="btn-schedule animated fadeInUp" style="font-weight:bold;">Schedule Complimentary Consultation</a><br>
                   <!---<span style="color:white;font-weight:bold;font-size:30px">&#11167;</span>--->
               </div>
             </div>
@@ -47,7 +47,7 @@
                  </h3>
                   </center>
                 <p class="animated fadeInUp"></p>
-                <a href="https://calendly.com/synergosadvice" class="btn-schedule animated fadeInUp" target="_blank" style="font-weight:bold;">Schedule Complimentary Consultation</a><br>
+                <a href="/consultation.php" class="btn-schedule animated fadeInUp" style="font-weight:bold;">Schedule Complimentary Consultation</a><br>
                   <!---<span style="color:white;font-weight:bold;font-size:30px">&#11167;</span>--->
               </div>
             </div>
@@ -64,7 +64,7 @@
                  </h3>
                   </center>
                 <p class="animated fadeInUp"></p>
-                <a href="https://calendly.com/synergosadvice" class="btn-schedule animated fadeInUp" target="_blank" style="font-weight:bold;">Schedule Complimentary Consultation</a><br>
+                <a href="/consultation.php" class="btn-schedule animated fadeInUp" style="font-weight:bold;">Schedule Complimentary Consultation</a><br>
                   <!---<span style="color:white;font-weight:bold;font-size:30px">&#11167;</span>--->
               </div>
             </div>
@@ -77,7 +77,7 @@
               <div class="carousel-content">
                 <h3 class="animated fadeInDown" style="color:white">Plan Today for a Better Tomorrow</h3>
                 <p class="animated fadeInUp"></p>
-                <a href="https://calendly.com/synergosadvice" class="btn-schedule animated fadeInUp" target="_blank" style="font-weight:bold;">Schedule Complimentary Consultation</a>
+                <a href="/consultation.php" class="btn-schedule animated fadeInUp" style="font-weight:bold;">Schedule Complimentary Consultation</a>
                   
               </div>
             </div>
@@ -193,7 +193,7 @@
       <div class="row">
       	<div class="col-md-12 content">
       		<br>
-                <a href="https://calendly.com/synergosadvice" class="btn-schedule animated" target="_blank" style="color:#002060;font-weight:bold;">Schedule Complimentary Consultation</a>
+                <a href="/consultation.php" class="btn-schedule animated" style="color:#002060;font-weight:bold;">Schedule Complimentary Consultation</a>
           
           <br>
             <br>
@@ -279,7 +279,7 @@
         <div class="col-md-12">
           <div class="color-light">
             <h2 class="wow bounceInDown" data-wow-delay="0.5s" style="color:#002060">Plan today for a better tomorrow</h2>
-            <p class="lead wow bounceInUp" data-wow-delay="1s"><a href="https://calendly.com/synergosadvice" class="btn-schedule animated" target="_blank" style="color:#002060;font-weight:bold;">Schedule Complimentary Consultation</a></p>
+            <p class="lead wow bounceInUp" data-wow-delay="1s"><a href="/consultation.php" class="btn-schedule animated" style="color:#002060;font-weight:bold;">Schedule Complimentary Consultation</a></p>
           </div>
         </div>
       </div>

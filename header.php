@@ -51,6 +51,7 @@
 	
 	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
 		border-color: transparent;
+		max-height: none !important;
 	}
 
 	@media (min-width: 810px) {

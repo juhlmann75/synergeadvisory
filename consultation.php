@@ -16,15 +16,9 @@
 	<p style="text-align:left;">These will give you a concrete idea of what it’s like to work with Synergos and what you can expect if you decide to move forward with the financial planning process.<br><br>
 	To schedule a consultation, select a day and time below.</p>
 
-	<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" style="min-width:320px;height:800px;" data-auto-load="false">
- <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
- <script>
- Calendly.initInlineWidget({
- url: 'https://calendly.com/synergosadvice'
- });
- </script>
-</div>
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/synergosadvice?hide_landing_page_details=1" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
 </div>
 
